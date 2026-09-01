@@ -4,9 +4,48 @@ async function api(u,o={}){const h={...(o.headers||{})};if(adminToken)h.Authoriz
 function toggleNav(){document.getElementById("nav")?.classList.toggle("open")}function updateNavigation(){for(const [id,hide] of [["adminBtn",!isAdmin],["loginBtn",isAdmin],["logoutBtn",!isAdmin]])document.getElementById(id)?.classList.toggle("hidden",hide)}
 function showPage(p){document.getElementById("nav")?.classList.remove("open");({home:renderHome,library:renderLibrary,results:renderResults,placements:renderPlacements,coding:renderCoding,aptitude:renderAptitude,internships:renderInternships,resume:renderResume,announcements:renderAnnouncements,calendar:renderCalendar,projects:renderProjects,links:renderLinks,login:renderLogin,admin:renderAdmin}[p]||renderHome)()}
 const home=()=>'<button class="secondary" onclick="showPage(\'home\')">🏠 Back to Home</button>';
-function renderHome(){const a=[["📚 E-Library","Study materials and resources.","library"],["🎓 Results","SGPA and CGPA calculator.","results"],["💼 Placements","Placement preparation.","placements"],["💻 Coding Practice","Programming, DSA and SQL.","coding"],["🎯 Aptitude","Aptitude practice.","aptitude"],["🏢 Internships","Internship opportunities.","internships"],["📝 Resume Builder","Create a simple resume.","resume"],["🚀 Project Ideas","Engineering project ideas.","projects"],["📅 Academic Calendar","Exams, holidays and events.","calendar"]];app.innerHTML='<section class="hero"><h1>🎓 Engineering Student Portal</h1><p class="created-by">
-  Created by Adarsh Anand Patil
-</p><p>Study, placements, coding, results and career resources in one place.</p></section><div class="grid">'+a.map(x=>`<div class="card"><h2>${x[0]}</h2><p>${x[1]}</p><button onclick="showPage('${x[2]}')">Open</button></div>`).join("")+'</div><div class="notice"><b>Public access:</b> Students can view the portal. Only the Creator/Admin can manage content.</div>'}
+function renderHome(){
+  const a=[
+    ["📚 E-Library","Study materials and resources.","library"],
+    ["🎓 Results","SGPA and CGPA calculator.","results"],
+    ["💼 Placements","Placement preparation.","placements"],
+    ["💻 Coding Practice","Programming, DSA and SQL.","coding"],
+    ["🎯 Aptitude","Aptitude practice.","aptitude"],
+    ["🏢 Internships","Internship opportunities.","internships"],
+    ["📝 Resume Builder","Create a simple resume.","resume"],
+    ["🚀 Project Ideas","Engineering project ideas.","projects"],
+    ["📅 Academic Calendar","Exams, holidays and events.","calendar"]
+  ];
+
+  app.innerHTML=`
+    <section class="hero">
+      <h1>🎓 Engineering Student Portal</h1>
+
+      <p class="created-by">
+        Created by Adarsh Anand Patil
+      </p>
+
+      <p>
+        Study, placements, coding, results and career resources in one place.
+      </p>
+    </section>
+
+    <div class="grid">
+      ${a.map(x=>`
+        <div class="card">
+          <h2>${x[0]}</h2>
+          <p>${x[1]}</p>
+          <button onclick="showPage('${x[2]}')">Open</button>
+        </div>
+      `).join("")}
+    </div>
+
+    <div class="notice">
+      <b>Public access:</b>
+      Students can view the portal. Only the Creator/Admin can manage content.
+    </div>
+  `;
+}
 async function renderLibrary(){resources=await api("/api/resources");app.innerHTML=`<div class="card"><h2>📚 E-Library & Engineering Resources</h2>${home()}<div class="formgrid"><div><label>Search</label><input id="rs" oninput="filterR()" placeholder="Search resources..."></div><div><label>Category</label><select id="rt" onchange="filterR()"><option value="">All Categories</option><option>Coding</option><option>Learning</option><option>Aptitude</option><option>Technical</option><option>Interview</option><option>Placement</option></select></div></div></div><div id="rl"></div>${isAdmin?`<div class="card"><h2>🔐 Admin: Add Resource</h2><form id="rf"><div class="formgrid"><div><label>Category</label><input name="type" required></div><div><label>Title</label><input name="title" required></div><div><label>URL</label><input name="url" type="url" required></div></div><label>Description</label><textarea name="description"></textarea><button>Add Resource</button></form></div>`:""}`;drawR(resources);document.getElementById("rf")?.addEventListener("submit",addR)}
 function drawR(a){document.getElementById("rl").innerHTML=a.map(x=>`<div class="card"><h3>${esc(x.title)}</h3><span class="badge green">${esc(x.type)}</span><p>${esc(x.description)}</p><a class="btn" href="${esc(x.url)}" target="_blank">🔗 Open Relevant Page</a>${isAdmin?` <button class="danger" onclick="delR(${x.id})">Delete</button>`:""}</div>`).join("")||'<div class="card">No resources found.</div>'}
 function filterR(){const s=(document.getElementById("rs")?.value||"").toLowerCase(),t=document.getElementById("rt")?.value||"";drawR(resources.filter(x=>(!s||`${x.title} ${x.description} ${x.type}`.toLowerCase().includes(s))&&(!t||x.type==t)))}
