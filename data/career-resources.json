@@ -1,0 +1,303 @@
+[
+  {
+    "id": 1,
+    "section": "communication",
+    "title": "Self Introduction",
+    "description": "Learn how to introduce yourself clearly in college and interviews.",
+    "url": "https://www.indeed.com/career-advice/interviewing/tell-me-about-yourself"
+  },
+  {
+    "id": 2,
+    "section": "communication",
+    "title": "Daily Speaking Practice",
+    "description": "Practice speaking topics and improve everyday English fluency.",
+    "url": "https://www.bbc.co.uk/learningenglish"
+  },
+  {
+    "id": 3,
+    "section": "communication",
+    "title": "Vocabulary Builder",
+    "description": "Learn meanings, pronunciation and example usage of English words.",
+    "url": "https://dictionary.cambridge.org/"
+  },
+  {
+    "id": 4,
+    "section": "communication",
+    "title": "Grammar Lessons",
+    "description": "Study English grammar and complete practical exercises.",
+    "url": "https://learnenglish.britishcouncil.org/grammar"
+  },
+  {
+    "id": 5,
+    "section": "communication",
+    "title": "Interview English",
+    "description": "Improve useful English phrases and communication for interviews.",
+    "url": "https://www.indeed.com/career-advice/interviewing"
+  },
+  {
+    "id": 6,
+    "section": "communication",
+    "title": "Group Discussion",
+    "description": "Practice placement-oriented group discussion topics and learn how to participate effectively.",
+    "url": "https://www.indiabix.com/group-discussion/topics-with-answers/"
+  },
+  {
+    "id": 7,
+    "section": "communication",
+    "title": "Listening & Pronunciation",
+    "description": "Build listening ability and pronunciation through English lessons.",
+    "url": "https://learnenglish.britishcouncil.org/skills/listening"
+  },
+  {
+    "id": 8,
+    "section": "technical",
+    "title": "C / C++",
+    "description": "Learn C programming and core concepts used in placements.",
+    "url": "https://www.geeksforgeeks.org/c-programming-language/"
+  },
+  {
+    "id": 9,
+    "section": "technical",
+    "title": "Python",
+    "description": "Learn Python syntax, concepts and programming fundamentals.",
+    "url": "https://docs.python.org/3/tutorial/"
+  },
+  {
+    "id": 10,
+    "section": "technical",
+    "title": "Java",
+    "description": "Learn Java programming, OOP and modern Java basics.",
+    "url": "https://dev.java/learn/"
+  },
+  {
+    "id": 11,
+    "section": "technical",
+    "title": "JavaScript",
+    "description": "Learn JavaScript from fundamentals to browser development.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+  },
+  {
+    "id": 12,
+    "section": "technical",
+    "title": "SQL",
+    "description": "Practice SQL queries, joins, aggregation and database problems.",
+    "url": "https://www.hackerrank.com/domains/sql"
+  },
+  {
+    "id": 13,
+    "section": "technical",
+    "title": "DSA",
+    "description": "Practice data structures and algorithms with coding problems.",
+    "url": "https://leetcode.com/problemset/"
+  },
+  {
+    "id": 14,
+    "section": "technical",
+    "title": "DBMS",
+    "description": "Study database concepts, normalization, transactions and SQL.",
+    "url": "https://www.geeksforgeeks.org/dbms/"
+  },
+  {
+    "id": 15,
+    "section": "technical",
+    "title": "Operating Systems",
+    "description": "Study processes, threads, memory, scheduling and OS concepts.",
+    "url": "https://www.geeksforgeeks.org/operating-systems/"
+  },
+  {
+    "id": 16,
+    "section": "technical",
+    "title": "Computer Networks",
+    "description": "Learn networking fundamentals, protocols and interview topics.",
+    "url": "https://www.geeksforgeeks.org/computer-network-tutorials/"
+  },
+  {
+    "id": 17,
+    "section": "technical",
+    "title": "OOP",
+    "description": "Learn object-oriented programming concepts with examples.",
+    "url": "https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/"
+  },
+  {
+    "id": 18,
+    "section": "technical",
+    "title": "Web Development",
+    "description": "Learn HTML, CSS, JavaScript and modern web development.",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn"
+  },
+  {
+    "id": 19,
+    "section": "interview",
+    "title": "HR Interview Questions",
+    "description": "Practice common HR questions and prepare structured answers.",
+    "url": "https://www.indeed.com/career-advice/interviewing"
+  },
+  {
+    "id": 20,
+    "section": "interview",
+    "title": "Technical Interview Questions",
+    "description": "Review programming, CS fundamentals and technical interview topics.",
+    "url": "https://www.geeksforgeeks.org/interview-preparation-for-software-developer/"
+  },
+  {
+    "id": 21,
+    "section": "interview",
+    "title": "Self Introduction",
+    "description": "Prepare a concise and confident answer for 'Tell me about yourself'.",
+    "url": "https://www.indeed.com/career-advice/interviewing/tell-me-about-yourself"
+  },
+  {
+    "id": 22,
+    "section": "interview",
+    "title": "Strengths & Weaknesses",
+    "description": "Learn how to discuss strengths and weaknesses professionally.",
+    "url": "https://www.indeed.com/career-advice/interviewing/what-are-your-strengths-and-weaknesses"
+  },
+  {
+    "id": 23,
+    "section": "interview",
+    "title": "Project Explanation",
+    "description": "Prepare to explain your project, role, technology and challenges.",
+    "url": "https://www.geeksforgeeks.org/how-to-explain-project-in-interview/"
+  },
+  {
+    "id": 24,
+    "section": "interview",
+    "title": "Common Interview Questions",
+    "description": "Prepare frequently asked interview questions before placement drives.",
+    "url": "https://www.geeksforgeeks.org/interview-questions/"
+  },
+  {
+    "id": 25,
+    "section": "interview",
+    "title": "Top Coding Interview Problems",
+    "description": "Practice a structured set of common coding interview problems.",
+    "url": "https://leetcode.com/studyplan/top-interview-150/"
+  },
+  {
+    "id": 26,
+    "section": "interview",
+    "title": "HackerRank Interview Preparation",
+    "description": "Practice coding and problem-solving questions for interviews.",
+    "url": "https://www.hackerrank.com/interview/interview-preparation-kit"
+  },
+  {
+    "id": 27,
+    "section": "interview",
+    "title": "Mock Interview Practice",
+    "description": "Practice live technical interviews and improve interview confidence.",
+    "url": "https://www.pramp.com/"
+  },
+  {
+    "id": 28,
+    "section": "roadmap",
+    "title": "1. Fundamentals",
+    "description": "Build programming and computer-science fundamentals first.",
+    "url": "https://roadmap.sh/computer-science"
+  },
+  {
+    "id": 29,
+    "section": "roadmap",
+    "title": "2. Coding + DSA",
+    "description": "Practice algorithms and data structures regularly.",
+    "url": "https://leetcode.com/problemset/"
+  },
+  {
+    "id": 30,
+    "section": "roadmap",
+    "title": "3. Aptitude",
+    "description": "Practice quantitative aptitude, reasoning and verbal ability.",
+    "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+  },
+  {
+    "id": 31,
+    "section": "roadmap",
+    "title": "4. Communication",
+    "description": "Improve English speaking, listening, grammar and vocabulary.",
+    "url": "https://www.bbc.co.uk/learningenglish"
+  },
+  {
+    "id": 32,
+    "section": "roadmap",
+    "title": "5. Projects",
+    "description": "Learn development skills and build projects for your portfolio.",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn"
+  },
+  {
+    "id": 33,
+    "section": "roadmap",
+    "title": "6. Resume",
+    "description": "Create and improve a professional student resume.",
+    "url": "https://www.canva.com/resumes/templates/"
+  },
+  {
+    "id": 34,
+    "section": "roadmap",
+    "title": "7. Apply for Jobs",
+    "description": "Search software jobs and internship opportunities.",
+    "url": "https://www.linkedin.com/jobs/"
+  },
+  {
+    "id": 35,
+    "section": "roadmap",
+    "title": "8. Technical Interview",
+    "description": "Prepare coding, CS fundamentals and technical interview questions.",
+    "url": "https://www.geeksforgeeks.org/interview-preparation-for-software-developer/"
+  },
+  {
+    "id": 36,
+    "section": "roadmap",
+    "title": "9. HR Interview",
+    "description": "Practice HR questions, communication and behavioral interviews.",
+    "url": "https://www.indeed.com/career-advice/interviewing"
+  },
+  {
+    "id": 37,
+    "section": "daily",
+    "title": "🗣️ English Speaking",
+    "description": "Daily English lessons for listening, vocabulary and speaking practice.",
+    "url": "https://www.bbc.co.uk/learningenglish"
+  },
+  {
+    "id": 38,
+    "section": "daily",
+    "title": "💻 Coding Practice",
+    "description": "Solve programming and algorithm problems every day.",
+    "url": "https://leetcode.com/problemset/"
+  },
+  {
+    "id": 39,
+    "section": "daily",
+    "title": "🎯 Aptitude Practice",
+    "description": "Practice quantitative aptitude, reasoning and verbal questions.",
+    "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+  },
+  {
+    "id": 40,
+    "section": "daily",
+    "title": "🛠️ Technical Questions",
+    "description": "Revise core technical interview questions regularly.",
+    "url": "https://www.geeksforgeeks.org/interview-questions/"
+  },
+  {
+    "id": 41,
+    "section": "daily",
+    "title": "🎤 Interview Questions",
+    "description": "Practice HR and common interview questions every day.",
+    "url": "https://www.indeed.com/career-advice/interviewing"
+  },
+  {
+    "id": 42,
+    "section": "daily",
+    "title": "🧩 SQL Practice",
+    "description": "Solve SQL problems and strengthen database query skills.",
+    "url": "https://www.hackerrank.com/domains/sql"
+  },
+  {
+    "id": 43,
+    "section": "daily",
+    "title": "🧠 DSA Interview Practice",
+    "description": "Use a curated interview problem set for consistent DSA practice.",
+    "url": "https://leetcode.com/studyplan/top-interview-150/"
+  }
+]

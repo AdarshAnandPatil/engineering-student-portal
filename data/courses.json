@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "🐍 Python Full Stack",
+    "description": "Python, web development, databases and backend skills.",
+    "badge": "🟢 FREE COURSE + FREE CERTIFICATE",
+    "learnUrl": "https://www.simplilearn.com/free-full-stack-developer-course-skillup",
+    "certificateUrl": "https://www.freecodecamp.org/learn/python-v9/"
+  },
+  {
+    "id": 2,
+    "title": "☕ Java Full Stack",
+    "description": "Java full-stack fundamentals with frontend, backend and database concepts.",
+    "badge": "🟢 FREE COURSE + COMPLETION CERTIFICATE",
+    "learnUrl": "https://www.simplilearn.com/free-full-stack-java-developer-course-skillup",
+    "certificateUrl": "https://www.simplilearn.com/free-full-stack-java-developer-course-skillup"
+  },
+  {
+    "id": 3,
+    "title": "⚛️ MERN Stack",
+    "description": "MongoDB, Express.js, React and Node.js for full-stack development.",
+    "badge": "🟢 FREE COURSE + COMPLETION CERTIFICATE",
+    "learnUrl": "https://www.simplilearn.com/free-mern-stack-program-skillup",
+    "certificateUrl": "https://www.freecodecamp.org/learn/full-stack-developer-v9/"
+  },
+  {
+    "id": 4,
+    "title": "🌐 Web Development",
+    "description": "HTML, CSS, JavaScript and responsive web development.",
+    "badge": "🟢 FREE LEARNING + FREE CERTIFICATIONS",
+    "learnUrl": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+    "certificateUrl": "https://www.freecodecamp.org/learn/"
+  },
+  {
+    "id": 5,
+    "title": "🐍 Python Programming",
+    "description": "Learn Python fundamentals, problem solving and practical programming.",
+    "badge": "🟢 FREE COURSE + FREE CERTIFICATE",
+    "learnUrl": "https://www.simplilearn.com/free-python-programming-course-skillup",
+    "certificateUrl": "https://www.freecodecamp.org/learn/python-v9/"
+  },
+  {
+    "id": 6,
+    "title": "☕ Java Programming",
+    "description": "Learn Java fundamentals and object-oriented programming.",
+    "badge": "🟢 FREE LEARNING",
+    "learnUrl": "https://dev.java/learn/",
+    "certificateUrl": "https://www.simplilearn.com/skillup-free-online-courses/programming"
+  },
+  {
+    "id": 7,
+    "title": "💻 C / C++ Programming",
+    "description": "Build strong programming fundamentals with C and C++.",
+    "badge": "🟢 FREE COURSE + FREE CERTIFICATE",
+    "learnUrl": "https://www.simplilearn.com/free-c-course-skillup",
+    "certificateUrl": "https://www.simplilearn.com/free-course-to-learn-cpp-basics-skillup"
+  },
+  {
+    "id": 8,
+    "title": "🗄️ SQL & Databases",
+    "description": "Learn SQL, relational databases and database fundamentals.",
+    "badge": "🟢 FREE LEARNING + FREE CERTIFICATION",
+    "learnUrl": "https://www.freecodecamp.org/learn/relational-database-v9/",
+    "certificateUrl": "https://www.freecodecamp.org/learn/"
+  },
+  {
+    "id": 9,
+    "title": "📊 Data Analytics",
+    "description": "Learn data analysis skills using Python and related tools.",
+    "badge": "🟢 FREE LEARNING + CERTIFICATION OPTIONS",
+    "learnUrl": "https://skillsbuild.org/",
+    "certificateUrl": "https://www.freecodecamp.org/learn/data-analysis-with-python/"
+  },
+  {
+    "id": 10,
+    "title": "🤖 AI / Machine Learning",
+    "description": "Build foundations in AI, machine learning and Python.",
+    "badge": "🟢 FREE LEARNING + CREDENTIALS",
+    "learnUrl": "https://skillsbuild.org/",
+    "certificateUrl": "https://www.freecodecamp.org/learn/machine-learning-with-python/"
+  },
+  {
+    "id": 11,
+    "title": "☁️ Cloud Computing",
+    "description": "Explore cloud fundamentals and industry-focused technology skills.",
+    "badge": "🟢 FREE LEARNING + CREDENTIALS",
+    "learnUrl": "https://skillsbuild.org/",
+    "certificateUrl": "https://skillsbuild.org/"
+  },
+  {
+    "id": 12,
+    "title": "🔧 DevOps",
+    "description": "Learn version control, automation and DevOps fundamentals.",
+    "badge": "🟢 FREE LEARNING",
+    "learnUrl": "https://skillsbuild.org/",
+    "certificateUrl": "https://www.freecodecamp.org/learn/"
+  },
+  {
+    "id": 13,
+    "title": "🧠 Coding Foundations",
+    "description": "Start from programming basics and build a strong coding foundation.",
+    "badge": "🟢 FREE LEARNING",
+    "learnUrl": "https://www.sololearn.com/en/learn/",
+    "certificateUrl": "https://www.sololearn.com/en/"
+  },
+  {
+    "id": 14,
+    "title": "🗣️ English for Developers",
+    "description": "Improve technical English, vocabulary and professional communication.",
+    "badge": "🟢 FREE CERTIFICATION",
+    "learnUrl": "https://www.freecodecamp.org/learn/a2-english-for-developers/",
+    "certificateUrl": "https://www.freecodecamp.org/learn/"
+  },
+  {
+    "id": 15,
+    "title": "🏆 IBM SkillsBuild",
+    "description": "Free career-focused technology courses and industry credentials.",
+    "badge": "🟢 100% FREE + CREDENTIALS",
+    "learnUrl": "https://skillsbuild.org/",
+    "certificateUrl": "https://skillsbuild.org/"
+  }
+]
