@@ -14,7 +14,23 @@ async function library(){let d=await api("/api/resources");if(!d.length)d=[{type
 function items(d,n,rer){return d.map(x=>`<div class="card"><h3>${esc(x.title)}</h3><span class="badge">${esc(x.type||"Resource")}</span><p>${esc(x.description||"")}</p>${x.url?`<a class="btn" href="${esc(x.url)}" target="_blank">Open Resource</a>`:""}${admin?`<button class="danger" onclick="del('${n}',${x.id},${rer.name})">Delete</button>`:""}</div>`).join("")||"<div class='card'>No items added yet.</div>"}
 function form(id,n,rer){document.querySelector("#"+id)?.addEventListener("submit",async e=>{e.preventDefault();await api("/api/"+n,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(Object.fromEntries(new FormData(e.target)))});rer()})}async function del(n,id,fn){if(confirm("Delete?")){await api("/api/"+n+"/"+id,{method:"DELETE"});page(fn)}}
 function results(){app.innerHTML=`<div class="card"><h2>📊 VTU Results & CGPA Calculator</h2>${back()}<p>Enter the SGPA you received in each semester.</p><a class="btn" href="https://results.vtu.ac.in/" target="_blank">🔗 Check Official VTU Results</a></div><div class="card"><div class="formgrid">${[1,2,3,4,5,6,7,8].map(n=>`<label>Semester ${n} SGPA<input id="sem${n}" type="number" min="0" max="10" step="0.01" placeholder="e.g. ${n===1?'8.9':n===2?'9.0':''}"></label>`).join('')}</div><button onclick="calcAllCGPA()">🧮 Calculate CGPA</button><div id="cg"></div></div>`}function calcAllCGPA(){let a=[1,2,3,4,5,6,7,8].map(n=>+document.getElementById('sem'+n).value).filter(x=>x>0&&x<=10);if(!a.length){cg.innerHTML='<p>Please enter at least one SGPA.</p>';return}let g=a.reduce((x,y)=>x+y,0)/a.length;cg.innerHTML=`<div class="notice"><h2>🎓 Overall CGPA: ${g.toFixed(2)} / 10</h2><h3>📈 Percentage: ${(g*10).toFixed(2)}%</h3><p>Percentage is shown as CGPA × 10. Students should verify the applicable official VTU conversion rule for their scheme.</p></div>`}
-function placements({app.innerHTML=`<div class="card"><h2>💼 Placement Preparation</h2>${back()}<p>Prepare using Aptitude, Technical Skills, Communication, Interview Preparation, Resume and Mock Interview.</p><button onclick="page('aptitude')">Aptitude</button><button onclick="page('technical')">Technical Skills</button><button onclick="page('interview')">Interview</button></div>`}
+function placements(){
+    app.innerHTML = `
+        <div class="card">
+            <h2>💼 Placement Preparation</h2>
+            ${back()}
+            <p>
+                Prepare using Aptitude, Technical Skills,
+                Communication, Interview Preparation,
+                Resume and Mock Interview.
+            </p>
+
+            <button onclick="page('aptitude')">Aptitude</button>
+            <button onclick="page('technical')">Technical Skills</button>
+            <button onclick="page('interview')">Interview</button>
+        </div>
+    `;
+}
 function courses(){let a=["C","C++","Python","Java","JavaScript","SQL","HTML/CSS","Full Stack","MERN Stack","DSA","DBMS","AI/ML","Data Science","Cloud Computing","Cybersecurity","Embedded Systems","VLSI"];app.innerHTML=`<div class="card"><h2>🎓 Free Courses & Certifications</h2>${back()}<p>Choose your course and learn from multiple legitimate platforms. Certificate rules are clearly provider-dependent.</p></div><div class="grid">${a.map(x=>`<div class="card"><h3>${x}</h3><p>📚 Learn | 🧪 Practice | 📜 Certificate information</p><a class="btn" href="https://www.freecodecamp.org/learn/" target="_blank">freeCodeCamp</a><a class="btn secondary" href="https://www.simplilearn.com/learn-${encodeURIComponent(x.toLowerCase())}-free-course-skillup" target="_blank">Simplilearn</a><a class="btn secondary" href="https://www.sololearn.com/" target="_blank">SoloLearn</a><a class="btn secondary" href="https://swayam.gov.in/" target="_blank">SWAYAM</a><a class="btn secondary" href="https://nptel.ac.in/courses" target="_blank">NPTEL</a><a class="btn secondary" href="https://online.vtu.ac.in/course" target="_blank">Official VTU Online Courses</a><p class="notice">Check each provider for current certificate eligibility; do not assume every certificate is free.</p></div>`).join("")}</div>`}
 function roadmap(){app.innerHTML=`<div class="card"><h2>🚀 Job Preparation Roadmap</h2>${back()}${["Learn Fundamentals","Coding + DSA","Aptitude","Communication","Projects","Resume","Apply for Jobs","Technical Interview","HR Interview"].map((x,i)=>`<div class="notice"><b>${i+1}. ${x}</b></div>`).join("")}</div>`}
 function daily(){app.innerHTML=`<div class="card"><h2>📅 Daily Practice</h2>${back()}<div class="grid">${["🗣️ English Speaking","💻 Coding","🎯 Aptitude","🛠️ Technical Questions","🎤 Interview Questions"].map(x=>`<div class="card"><h3>${x}</h3><p>Practice 20–30 minutes daily.</p></div>`).join("")}</div></div>`}
