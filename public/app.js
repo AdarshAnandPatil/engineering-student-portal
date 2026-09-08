@@ -70,3 +70,376 @@ function addR2(){let a=JSON.parse(localStorage.results||"[]");a.push({id:Date.no
 function calcAll(){let a=JSON.parse(localStorage.results||"[]"),groups={};a.forEach(x=>{let g=groups[x.sm]||(groups[x.sm]={p:0,c:0});g.p+=x.sg*(x.sc||1);g.c+=(x.sc||1)});let tp=0,tc=0,out=Object.entries(groups).map(([k,v])=>{tp+=v.p;tc+=v.c;return `<p><b>${k} SGPA:</b> ${(v.p/v.c).toFixed(2)}</p>`}).join("");cg.innerHTML=out+`<h2>Credit-weighted CGPA: ${tc?(tp/tc).toFixed(2):"0.00"}</h2>`}
 // Expanded career roadmaps
 maps["Java Developer"]=["Where to start: Java syntax + JDK","OOP","Collections + Exception Handling","DSA","SQL + JDBC","Spring Boot","REST APIs","Build 3 projects","GitHub + Resume","Technical + HR Interview"];maps["JavaScript Developer"]=["HTML + CSS","JavaScript Fundamentals","DOM + ES6","Async + APIs","DSA basics","React","Node.js","Projects","Portfolio + Interview"];maps["C / C++ Developer"]=["C basics","Pointers + Memory","C++ OOP + STL","DSA","Problem Solving","Projects","GitHub","Interview"];maps["SQL / Database Developer"]=["SQL Basics","Joins + Subqueries","Normalization + DBMS","Indexes + Transactions","Database Design","Projects","Interview"];maps["MERN Stack Developer"]=["HTML/CSS/JavaScript","React","Node.js + Express","MongoDB","Authentication + APIs","Build 3 Projects","GitHub + Resume","Mock Interview"];
+// =====================================================
+// PUBLIC / NOTES FOLDER - EASY NOTES PDF INTEGRATION
+// Add this code at the END of app.js
+// =====================================================
+
+const PUBLIC_NOTES = [
+    {
+        title: "Python Easy Notes",
+        file: "Python_Easy_Notes.pdf"
+    },
+    {
+        title: "Java Easy Notes",
+        file: "Java_Easy_Notes.pdf"
+    },
+    {
+        title: "C Programming Easy Notes",
+        file: "C_Programming_Easy_Notes.pdf"
+    },
+    {
+        title: "C++ Easy Notes",
+        file: "C++_Easy_Notes.pdf"
+    },
+    {
+        title: "JavaScript Easy Notes",
+        file: "JavaScript_Easy_Notes.pdf"
+    },
+    {
+        title: "HTML Easy Notes",
+        file: "HTML_Easy_Notes.pdf"
+    },
+    {
+        title: "CSS Easy Notes",
+        file: "CSS_Easy_Notes.pdf"
+    },
+    {
+        title: "SQL Easy Notes",
+        file: "SQL_Easy_Notes.pdf"
+    },
+    {
+        title: "DSA Easy Notes",
+        file: "DSA_Easy_Notes.pdf"
+    },
+    {
+        title: "DBMS Easy Notes",
+        file: "DBMS_Easy_Notes.pdf"
+    },
+    {
+        title: "Operating Systems Easy Notes",
+        file: "Operating_Systems_Easy_Notes.pdf"
+    },
+    {
+        title: "Computer Networks Easy Notes",
+        file: "Computer_Networks_Easy_Notes.pdf"
+    },
+    {
+        title: "OOP Easy Notes",
+        file: "OOP_Easy_Notes.pdf"
+    },
+    {
+        title: "AI / ML Easy Notes",
+        file: "AI___ML_Easy_Notes.pdf"
+    },
+    {
+        title: "Cloud Computing Easy Notes",
+        file: "Cloud_Computing_Easy_Notes.pdf"
+    }
+];
+
+
+// =====================================================
+// UPDATED E-LIBRARY
+// =====================================================
+
+async function library() {
+
+    let resources = [];
+
+    try {
+        resources = await api("/api/resources");
+    } catch (error) {
+        console.log("Resources API not available");
+    }
+
+
+    app.innerHTML = `
+
+        <div class="card">
+
+            <h2>📚 E-Library</h2>
+
+            ${back()}
+
+            <p>
+                📖 Easy Notes • 🧪 Lab Programs •
+                📝 Assignments • 💻 Examples •
+                🎥 Videos • 🌐 Learning Websites
+            </p>
+
+        </div>
+
+
+        <!-- EASY NOTES SECTION -->
+
+        <div class="card">
+
+            <h2>📖 Easy Study Notes</h2>
+
+            <p>
+                Access simple and easy-to-understand PDF notes
+                for engineering subjects.
+            </p>
+
+        </div>
+
+
+        <div class="grid">
+
+            ${PUBLIC_NOTES.map(note => `
+
+                <div class="card">
+
+                    <h3>📘 ${note.title}</h3>
+
+                    <p>
+                        ✍️ Easy to Understand<br>
+                        💡 Important Concepts<br>
+                        📖 Study Material
+                    </p>
+
+
+                    <button
+                        class="btn"
+                        onclick="openNote('${note.file}')">
+
+                        📖 Open Notes
+
+                    </button>
+
+
+                    <button
+                        class="btn secondary"
+                        onclick="downloadNote('${note.file}')">
+
+                        📥 Download PDF
+
+                    </button>
+
+                </div>
+
+            `).join("")}
+
+        </div>
+
+
+        <!-- ONLINE LEARNING RESOURCES -->
+
+        <div class="card">
+
+            <h2>🌐 Online Learning Resources</h2>
+
+            <p>
+                Learn programming and engineering concepts
+                from trusted learning platforms.
+            </p>
+
+        </div>
+
+
+        <div class="grid">
+
+            <div class="card">
+
+                <h3>🐍 Python</h3>
+
+                <a
+                    class="btn"
+                    href="https://www.w3schools.com/python/"
+                    target="_blank">
+
+                    📚 W3Schools Python
+
+                </a>
+
+            </div>
+
+
+            <div class="card">
+
+                <h3>☕ Java</h3>
+
+                <a
+                    class="btn"
+                    href="https://www.w3schools.com/java/"
+                    target="_blank">
+
+                    📚 W3Schools Java
+
+                </a>
+
+            </div>
+
+
+            <div class="card">
+
+                <h3>💻 C Programming</h3>
+
+                <a
+                    class="btn"
+                    href="https://www.programiz.com/c-programming"
+                    target="_blank">
+
+                    📚 Learn C
+
+                </a>
+
+            </div>
+
+
+            <div class="card">
+
+                <h3>🌐 Web Development</h3>
+
+                <a
+                    class="btn"
+                    href="https://developer.mozilla.org/"
+                    target="_blank">
+
+                    📚 MDN Web Docs
+
+                </a>
+
+            </div>
+
+
+            <div class="card">
+
+                <h3>🗄️ SQL</h3>
+
+                <a
+                    class="btn"
+                    href="https://www.w3schools.com/sql/"
+                    target="_blank">
+
+                    📚 Learn SQL
+
+                </a>
+
+            </div>
+
+
+            <div class="card">
+
+                <h3>🧠 DSA</h3>
+
+                <a
+                    class="btn"
+                    href="https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/"
+                    target="_blank">
+
+                    📚 Learn DSA
+
+                </a>
+
+            </div>
+
+        </div>
+
+
+        <!-- ADMIN RESOURCES -->
+
+        ${admin ? `
+
+            <div class="card">
+
+                <h2>⚙️ Add Resource</h2>
+
+                <form id="add">
+
+                    <input
+                        name="type"
+                        placeholder="Category"
+                        required
+                    >
+
+                    <input
+                        name="title"
+                        placeholder="Title"
+                        required
+                    >
+
+                    <input
+                        name="url"
+                        placeholder="URL"
+                    >
+
+                    <textarea
+                        name="description"
+                        placeholder="Description">
+                    </textarea>
+
+                    <button>
+                        Add Resource
+                    </button>
+
+                </form>
+
+            </div>
+
+        ` : ""}
+
+
+        <!-- DATABASE RESOURCES -->
+
+        ${resources.length ? `
+
+            <div class="card">
+
+                <h2>📚 Additional Resources</h2>
+
+            </div>
+
+
+            <div class="grid">
+
+                ${items(resources, "resources", library)}
+
+            </div>
+
+        ` : ""}
+
+    `;
+
+
+    form("add", "resources", library);
+
+}
+
+
+
+// =====================================================
+// OPEN PDF FROM public/notes
+// =====================================================
+
+function openNote(fileName) {
+
+    window.open(
+        "notes/" + fileName,
+        "_blank"
+    );
+
+}
+
+
+
+// =====================================================
+// DOWNLOAD PDF FROM public/notes
+// =====================================================
+
+function downloadNote(fileName) {
+
+    const link = document.createElement("a");
+
+    link.href = "notes/" + fileName;
+
+    link.download = fileName;
+
+    document.body.appendChild(link);
+
+    link.click();
+
+    document.body.removeChild(link);
+
+}
