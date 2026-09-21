@@ -1,0 +1,327 @@
+[
+  {
+    "id": 1,
+    "name": "TCS",
+    "status": "enabled"
+  },
+  {
+    "id": 2,
+    "name": "Infosys",
+    "status": "enabled"
+  },
+  {
+    "id": 3,
+    "name": "Wipro",
+    "status": "enabled"
+  },
+  {
+    "id": 4,
+    "name": "HCLTech",
+    "status": "enabled"
+  },
+  {
+    "id": 5,
+    "name": "Accenture",
+    "status": "enabled"
+  },
+  {
+    "id": 6,
+    "name": "Cognizant",
+    "status": "enabled"
+  },
+  {
+    "id": 7,
+    "name": "Capgemini",
+    "status": "enabled"
+  },
+  {
+    "id": 8,
+    "name": "LTIMindtree",
+    "status": "enabled"
+  },
+  {
+    "id": 9,
+    "name": "Tech Mahindra",
+    "status": "enabled"
+  },
+  {
+    "id": 10,
+    "name": "Mphasis",
+    "status": "enabled"
+  },
+  {
+    "id": 11,
+    "name": "Persistent Systems",
+    "status": "enabled"
+  },
+  {
+    "id": 12,
+    "name": "Coforge",
+    "status": "enabled"
+  },
+  {
+    "id": 13,
+    "name": "Deloitte",
+    "status": "enabled"
+  },
+  {
+    "id": 14,
+    "name": "Microsoft",
+    "status": "enabled"
+  },
+  {
+    "id": 15,
+    "name": "Amazon",
+    "status": "enabled"
+  },
+  {
+    "id": 16,
+    "name": "Google",
+    "status": "enabled"
+  },
+  {
+    "id": 17,
+    "name": "Adobe",
+    "status": "enabled"
+  },
+  {
+    "id": 18,
+    "name": "Salesforce",
+    "status": "enabled"
+  },
+  {
+    "id": 19,
+    "name": "Oracle",
+    "status": "enabled"
+  },
+  {
+    "id": 20,
+    "name": "Cisco",
+    "status": "enabled"
+  },
+  {
+    "id": 21,
+    "name": "SAP",
+    "status": "enabled"
+  },
+  {
+    "id": 22,
+    "name": "ServiceNow",
+    "status": "enabled"
+  },
+  {
+    "id": 23,
+    "name": "IBM",
+    "status": "enabled"
+  },
+  {
+    "id": 24,
+    "name": "Intuit",
+    "status": "enabled"
+  },
+  {
+    "id": 25,
+    "name": "Atlassian",
+    "status": "enabled"
+  },
+  {
+    "id": 26,
+    "name": "Qualcomm",
+    "status": "enabled"
+  },
+  {
+    "id": 27,
+    "name": "Walmart",
+    "status": "enabled"
+  },
+  {
+    "id": 28,
+    "name": "JPMorgan Chase",
+    "status": "enabled"
+  },
+  {
+    "id": 29,
+    "name": "Goldman Sachs",
+    "status": "enabled"
+  },
+  {
+    "id": 30,
+    "name": "Morgan Stanley",
+    "status": "enabled"
+  },
+  {
+    "id": 31,
+    "name": "Wells Fargo",
+    "status": "enabled"
+  },
+  {
+    "id": 32,
+    "name": "Barclays",
+    "status": "enabled"
+  },
+  {
+    "id": 33,
+    "name": "Citi",
+    "status": "enabled"
+  },
+  {
+    "id": 34,
+    "name": "HSBC",
+    "status": "enabled"
+  },
+  {
+    "id": 35,
+    "name": "American Express",
+    "status": "enabled"
+  },
+  {
+    "id": 36,
+    "name": "Visa",
+    "status": "enabled"
+  },
+  {
+    "id": 37,
+    "name": "Mastercard",
+    "status": "enabled"
+  },
+  {
+    "id": 38,
+    "name": "Zoho",
+    "status": "enabled"
+  },
+  {
+    "id": 39,
+    "name": "Freshworks",
+    "status": "enabled"
+  },
+  {
+    "id": 40,
+    "name": "PhonePe",
+    "status": "enabled"
+  },
+  {
+    "id": 41,
+    "name": "Razorpay",
+    "status": "enabled"
+  },
+  {
+    "id": 42,
+    "name": "Flipkart",
+    "status": "enabled"
+  },
+  {
+    "id": 43,
+    "name": "Swiggy",
+    "status": "enabled"
+  },
+  {
+    "id": 44,
+    "name": "Paytm",
+    "status": "enabled"
+  },
+  {
+    "id": 45,
+    "name": "CRED",
+    "status": "enabled"
+  },
+  {
+    "id": 46,
+    "name": "Meesho",
+    "status": "enabled"
+  },
+  {
+    "id": 47,
+    "name": "Groww",
+    "status": "enabled"
+  },
+  {
+    "id": 48,
+    "name": "Zerodha",
+    "status": "enabled"
+  },
+  {
+    "id": 49,
+    "name": "NVIDIA",
+    "status": "enabled"
+  },
+  {
+    "id": 50,
+    "name": "Intel",
+    "status": "enabled"
+  },
+  {
+    "id": 51,
+    "name": "AMD",
+    "status": "enabled"
+  },
+  {
+    "id": 52,
+    "name": "Siemens",
+    "status": "enabled"
+  },
+  {
+    "id": 53,
+    "name": "Bosch",
+    "status": "enabled"
+  },
+  {
+    "id": 54,
+    "name": "Mercedes-Benz R&D",
+    "status": "enabled"
+  },
+  {
+    "id": 55,
+    "name": "MathWorks",
+    "status": "enabled"
+  },
+  {
+    "id": 56,
+    "name": "Optum",
+    "status": "enabled"
+  },
+  {
+    "id": 57,
+    "name": "Fractal",
+    "status": "enabled"
+  },
+  {
+    "id": 58,
+    "name": "Tiger Analytics",
+    "status": "enabled"
+  },
+  {
+    "id": 59,
+    "name": "Mu Sigma",
+    "status": "enabled"
+  },
+  {
+    "id": 60,
+    "name": "L&T Technology Services",
+    "status": "enabled"
+  },
+  {
+    "id": 61,
+    "name": "Quest Global",
+    "status": "enabled"
+  },
+  {
+    "id": 62,
+    "name": "Rubrik",
+    "status": "enabled"
+  },
+  {
+    "id": 63,
+    "name": "Sonata",
+    "status": "enabled"
+  },
+  {
+    "id": 64,
+    "name": "Sutherland",
+    "status": "enabled"
+  },
+  {
+    "id": 65,
+    "name": "Concentrix",
+    "status": "enabled"
+  }
+]
