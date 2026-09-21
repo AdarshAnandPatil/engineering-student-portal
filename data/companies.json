@@ -1,0 +1,500 @@
+[
+  {
+    "id": 1,
+    "name": "TCS",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 2,
+    "name": "Infosys",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 3,
+    "name": "Wipro",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 4,
+    "name": "HCLTech",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 5,
+    "name": "Accenture",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 6,
+    "name": "Cognizant",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 7,
+    "name": "Capgemini",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 8,
+    "name": "LTIMindtree",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 9,
+    "name": "Tech Mahindra",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 10,
+    "name": "Mphasis",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 11,
+    "name": "Hexaware",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 12,
+    "name": "Persistent Systems",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 13,
+    "name": "Coforge",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 14,
+    "name": "Birlasoft",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 15,
+    "name": "CGI",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 16,
+    "name": "DXC Technology",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 17,
+    "name": "NTT DATA",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 18,
+    "name": "Genpact",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 19,
+    "name": "UST",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 20,
+    "name": "Virtusa",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 21,
+    "name": "Zensar",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 22,
+    "name": "KPIT",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 23,
+    "name": "Happiest Minds",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 24,
+    "name": "Deloitte",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 25,
+    "name": "Microsoft",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 26,
+    "name": "Amazon",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 27,
+    "name": "Google",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 28,
+    "name": "Adobe",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 29,
+    "name": "Salesforce",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 30,
+    "name": "Oracle",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 31,
+    "name": "Cisco",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 32,
+    "name": "SAP",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 33,
+    "name": "ServiceNow",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 34,
+    "name": "Broadcom",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 35,
+    "name": "Dell Technologies",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 36,
+    "name": "IBM",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 37,
+    "name": "Intuit",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 38,
+    "name": "Atlassian",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 39,
+    "name": "Autodesk",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 40,
+    "name": "Qualcomm",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 41,
+    "name": "Walmart",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 42,
+    "name": "JPMorgan Chase",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 43,
+    "name": "Goldman Sachs",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 44,
+    "name": "Morgan Stanley",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 45,
+    "name": "Wells Fargo",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 46,
+    "name": "Barclays",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 47,
+    "name": "Citi",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 48,
+    "name": "Deutsche Bank",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 49,
+    "name": "HSBC",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 50,
+    "name": "American Express",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 51,
+    "name": "Visa",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 52,
+    "name": "Mastercard",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 53,
+    "name": "Standard Chartered",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 54,
+    "name": "Zoho",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 55,
+    "name": "Freshworks",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 56,
+    "name": "PhonePe",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 57,
+    "name": "Razorpay",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 58,
+    "name": "Flipkart",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 59,
+    "name": "Swiggy",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 60,
+    "name": "Paytm",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 61,
+    "name": "CRED",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 62,
+    "name": "Meesho",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 63,
+    "name": "Groww",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 64,
+    "name": "Zerodha",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 65,
+    "name": "Dream11",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 66,
+    "name": "NVIDIA",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 67,
+    "name": "Intel",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 68,
+    "name": "AMD",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 69,
+    "name": "Siemens",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 70,
+    "name": "Bosch",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 71,
+    "name": "Mercedes-Benz R&D",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 72,
+    "name": "MathWorks",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 73,
+    "name": "Optum",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 74,
+    "name": "Fractal",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 75,
+    "name": "Tiger Analytics",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 76,
+    "name": "Mu Sigma",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 77,
+    "name": "L&T Technology Services",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 78,
+    "name": "Quest Global",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 79,
+    "name": "Rubrik",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 80,
+    "name": "Sonata",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 81,
+    "name": "Sutherland",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 82,
+    "name": "Concentrix",
+    "enabled": true,
+    "category": "Company Directory"
+  },
+  {
+    "id": 83,
+    "name": "Revature",
+    "enabled": true,
+    "category": "Company Directory"
+  }
+]
