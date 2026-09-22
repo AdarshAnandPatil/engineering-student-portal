@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "company": "TCS",
+    "year": "2025",
+    "role": "Software Engineer",
+    "round": "Aptitude",
+    "question": "Percentages and time-work practice",
+    "type": "Aptitude"
+  },
+  {
+    "id": 2,
+    "company": "Infosys",
+    "year": "2025",
+    "role": "Systems Engineer",
+    "round": "Technical",
+    "question": "Explain OOP principles with examples",
+    "type": "Technical"
+  },
+  {
+    "id": 3,
+    "company": "Accenture",
+    "year": "2025",
+    "role": "Associate Software Engineer",
+    "round": "SQL",
+    "question": "Write a query using JOIN and GROUP BY",
+    "type": "SQL"
+  },
+  {
+    "id": 4,
+    "company": "Wipro",
+    "year": "2024",
+    "role": "Project Engineer",
+    "round": "Coding",
+    "question": "Find the longest substring without repeating characters",
+    "type": "Coding"
+  },
+  {
+    "id": 5,
+    "company": "Cognizant",
+    "year": "2025",
+    "role": "Programmer Analyst",
+    "round": "HR",
+    "question": "Tell me about yourself and your project",
+    "type": "HR"
+  },
+  {
+    "id": 6,
+    "company": "Capgemini",
+    "year": "2024",
+    "role": "Analyst",
+    "round": "DBMS",
+    "question": "Explain normalization and keys",
+    "type": "DBMS"
+  }
+]
