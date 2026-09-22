@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "skill": "C/C++",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  },
+  {
+    "id": 2,
+    "skill": "Java",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  },
+  {
+    "id": 3,
+    "skill": "Python",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  },
+  {
+    "id": 4,
+    "skill": "JavaScript",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  },
+  {
+    "id": 5,
+    "skill": "HTML/CSS",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  },
+  {
+    "id": 6,
+    "skill": "SQL",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  },
+  {
+    "id": 7,
+    "skill": "DSA",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  },
+  {
+    "id": 8,
+    "skill": "DBMS",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  },
+  {
+    "id": 9,
+    "skill": "Operating Systems",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  },
+  {
+    "id": 10,
+    "skill": "Computer Networks",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  },
+  {
+    "id": 11,
+    "skill": "OOP",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  },
+  {
+    "id": 12,
+    "skill": "Web Development",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  },
+  {
+    "id": 13,
+    "skill": "AI/ML",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  },
+  {
+    "id": 14,
+    "skill": "Cloud Computing",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  },
+  {
+    "id": 15,
+    "skill": "Cybersecurity",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  },
+  {
+    "id": 16,
+    "skill": "Embedded Systems",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  },
+  {
+    "id": 17,
+    "skill": "VLSI",
+    "topics": [
+      "Fundamentals",
+      "Practice",
+      "Projects",
+      "Interview Questions"
+    ]
+  }
+]

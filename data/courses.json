@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Java",
+    "provider": "freeCodeCamp / NPTEL / SWAYAM",
+    "topic": "Java",
+    "free": true,
+    "url": "https://www.freecodecamp.org/learn/"
+  },
+  {
+    "id": 2,
+    "title": "Python",
+    "provider": "freeCodeCamp / NPTEL / SWAYAM",
+    "topic": "Python",
+    "free": true,
+    "url": "https://www.freecodecamp.org/learn/"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack",
+    "provider": "freeCodeCamp / NPTEL / SWAYAM",
+    "topic": "Full Stack",
+    "free": true,
+    "url": "https://www.freecodecamp.org/learn/"
+  },
+  {
+    "id": 4,
+    "title": "SQL",
+    "provider": "freeCodeCamp / NPTEL / SWAYAM",
+    "topic": "SQL",
+    "free": true,
+    "url": "https://www.freecodecamp.org/learn/"
+  },
+  {
+    "id": 5,
+    "title": "DSA",
+    "provider": "freeCodeCamp / NPTEL / SWAYAM",
+    "topic": "DSA",
+    "free": true,
+    "url": "https://www.freecodecamp.org/learn/"
+  },
+  {
+    "id": 6,
+    "title": "AI/ML",
+    "provider": "freeCodeCamp / NPTEL / SWAYAM",
+    "topic": "AI/ML",
+    "free": true,
+    "url": "https://www.freecodecamp.org/learn/"
+  },
+  {
+    "id": 7,
+    "title": "Cloud",
+    "provider": "freeCodeCamp / NPTEL / SWAYAM",
+    "topic": "Cloud",
+    "free": true,
+    "url": "https://www.freecodecamp.org/learn/"
+  },
+  {
+    "id": 8,
+    "title": "Cybersecurity",
+    "provider": "freeCodeCamp / NPTEL / SWAYAM",
+    "topic": "Cybersecurity",
+    "free": true,
+    "url": "https://www.freecodecamp.org/learn/"
+  },
+  {
+    "id": 9,
+    "title": "Embedded/VLSI",
+    "provider": "freeCodeCamp / NPTEL / SWAYAM",
+    "topic": "Embedded/VLSI",
+    "free": true,
+    "url": "https://www.freecodecamp.org/learn/"
+  }
+]
