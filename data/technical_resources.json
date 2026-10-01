@@ -1,0 +1,659 @@
+[
+  {
+    "id": 1,
+    "skill": "C/C++",
+    "type": "Notes / PDF Resource",
+    "title": "C/C++ Fundamentals Notes & Study Resources",
+    "description": "Core concepts, interview preparation topics and study references for C/C++.",
+    "url": "https://en.cppreference.com/w/",
+    "published": true
+  },
+  {
+    "id": 2,
+    "skill": "C/C++",
+    "type": "Useful Link",
+    "title": "GeeksforGeeks C/C++",
+    "description": "External learning resource for C/C++.",
+    "url": "https://www.geeksforgeeks.org/cpp-tutorial/",
+    "published": true
+  },
+  {
+    "id": 3,
+    "skill": "C/C++",
+    "type": "Apna College Video",
+    "title": "Apna College C/C++ Video Resources",
+    "description": "Official Apna College YouTube search for C/C++-related lectures.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=C%20C%2B%2B",
+    "published": true
+  },
+  {
+    "id": 4,
+    "skill": "Java",
+    "type": "Notes / PDF Resource",
+    "title": "Java Fundamentals Notes & Study Resources",
+    "description": "Core concepts, interview preparation topics and study references for Java.",
+    "url": "https://docs.oracle.com/en/java/",
+    "published": true
+  },
+  {
+    "id": 5,
+    "skill": "Java",
+    "type": "Useful Link",
+    "title": "W3Schools Java",
+    "description": "External learning resource for Java.",
+    "url": "https://www.w3schools.com/java/",
+    "published": true
+  },
+  {
+    "id": 6,
+    "skill": "Java",
+    "type": "Apna College Video",
+    "title": "Apna College Java Video Resources",
+    "description": "Official Apna College YouTube search for Java-related lectures.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=Java",
+    "published": true
+  },
+  {
+    "id": 7,
+    "skill": "Python",
+    "type": "Notes / PDF Resource",
+    "title": "Python Fundamentals Notes & Study Resources",
+    "description": "Core concepts, interview preparation topics and study references for Python.",
+    "url": "https://docs.python.org/3/",
+    "published": true
+  },
+  {
+    "id": 8,
+    "skill": "Python",
+    "type": "Useful Link",
+    "title": "W3Schools Python",
+    "description": "External learning resource for Python.",
+    "url": "https://www.w3schools.com/python/",
+    "published": true
+  },
+  {
+    "id": 9,
+    "skill": "Python",
+    "type": "Apna College Video",
+    "title": "Apna College Python Video Resources",
+    "description": "Official Apna College YouTube search for Python-related lectures.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=Python",
+    "published": true
+  },
+  {
+    "id": 10,
+    "skill": "JavaScript",
+    "type": "Notes / PDF Resource",
+    "title": "JavaScript Fundamentals Notes & Study Resources",
+    "description": "Core concepts, interview preparation topics and study references for JavaScript.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "published": true
+  },
+  {
+    "id": 11,
+    "skill": "JavaScript",
+    "type": "Useful Link",
+    "title": "W3Schools JavaScript",
+    "description": "External learning resource for JavaScript.",
+    "url": "https://www.w3schools.com/js/",
+    "published": true
+  },
+  {
+    "id": 12,
+    "skill": "JavaScript",
+    "type": "Apna College Video",
+    "title": "Apna College JavaScript Video Resources",
+    "description": "Official Apna College YouTube search for JavaScript-related lectures.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=JavaScript",
+    "published": true
+  },
+  {
+    "id": 13,
+    "skill": "HTML/CSS",
+    "type": "Notes / PDF Resource",
+    "title": "HTML/CSS Fundamentals Notes & Study Resources",
+    "description": "Core concepts, interview preparation topics and study references for HTML/CSS.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "published": true
+  },
+  {
+    "id": 14,
+    "skill": "HTML/CSS",
+    "type": "Useful Link",
+    "title": "MDN CSS",
+    "description": "External learning resource for HTML/CSS.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "published": true
+  },
+  {
+    "id": 15,
+    "skill": "HTML/CSS",
+    "type": "Apna College Video",
+    "title": "Apna College HTML/CSS Video Resources",
+    "description": "Official Apna College YouTube search for HTML/CSS-related lectures.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=HTML%20CSS",
+    "published": true
+  },
+  {
+    "id": 16,
+    "skill": "SQL",
+    "type": "Notes / PDF Resource",
+    "title": "SQL Fundamentals Notes & Study Resources",
+    "description": "Core concepts, interview preparation topics and study references for SQL.",
+    "url": "https://sqlbolt.com/",
+    "published": true
+  },
+  {
+    "id": 17,
+    "skill": "SQL",
+    "type": "Useful Link",
+    "title": "W3Schools SQL",
+    "description": "External learning resource for SQL.",
+    "url": "https://www.w3schools.com/sql/",
+    "published": true
+  },
+  {
+    "id": 18,
+    "skill": "SQL",
+    "type": "Apna College Video",
+    "title": "Apna College SQL Video Resources",
+    "description": "Official Apna College YouTube search for SQL-related lectures.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=SQL",
+    "published": true
+  },
+  {
+    "id": 19,
+    "skill": "DSA",
+    "type": "Notes / PDF Resource",
+    "title": "DSA Fundamentals Notes & Study Resources",
+    "description": "Core concepts, interview preparation topics and study references for DSA.",
+    "url": "https://www.geeksforgeeks.org/data-structures/",
+    "published": true
+  },
+  {
+    "id": 20,
+    "skill": "DSA",
+    "type": "Useful Link",
+    "title": "VisuAlgo",
+    "description": "External learning resource for DSA.",
+    "url": "https://visualgo.net/en",
+    "published": true
+  },
+  {
+    "id": 21,
+    "skill": "DSA",
+    "type": "Apna College Video",
+    "title": "Apna College DSA Video Resources",
+    "description": "Official Apna College YouTube search for DSA-related lectures.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=DSA",
+    "published": true
+  },
+  {
+    "id": 22,
+    "skill": "DBMS",
+    "type": "Notes / PDF Resource",
+    "title": "DBMS Fundamentals Notes & Study Resources",
+    "description": "Core concepts, interview preparation topics and study references for DBMS.",
+    "url": "https://www.geeksforgeeks.org/dbms/",
+    "published": true
+  },
+  {
+    "id": 23,
+    "skill": "DBMS",
+    "type": "Useful Link",
+    "title": "SQLBolt",
+    "description": "External learning resource for DBMS.",
+    "url": "https://sqlbolt.com/",
+    "published": true
+  },
+  {
+    "id": 24,
+    "skill": "OS",
+    "type": "Notes / PDF Resource",
+    "title": "OS Fundamentals Notes & Study Resources",
+    "description": "Core concepts, interview preparation topics and study references for OS.",
+    "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+    "published": true
+  },
+  {
+    "id": 25,
+    "skill": "OS",
+    "type": "Useful Link",
+    "title": "GeeksforGeeks OS",
+    "description": "External learning resource for OS.",
+    "url": "https://www.geeksforgeeks.org/operating-systems/",
+    "published": true
+  },
+  {
+    "id": 26,
+    "skill": "CN",
+    "type": "Notes / PDF Resource",
+    "title": "CN Fundamentals Notes & Study Resources",
+    "description": "Core concepts, interview preparation topics and study references for CN.",
+    "url": "https://www.computer-networking.info/",
+    "published": true
+  },
+  {
+    "id": 27,
+    "skill": "CN",
+    "type": "Useful Link",
+    "title": "GeeksforGeeks CN",
+    "description": "External learning resource for CN.",
+    "url": "https://www.geeksforgeeks.org/computer-network-tutorials/",
+    "published": true
+  },
+  {
+    "id": 28,
+    "skill": "OOP",
+    "type": "Notes / PDF Resource",
+    "title": "OOP Fundamentals Notes & Study Resources",
+    "description": "Core concepts, interview preparation topics and study references for OOP.",
+    "url": "https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/",
+    "published": true
+  },
+  {
+    "id": 29,
+    "skill": "OOP",
+    "type": "Useful Link",
+    "title": "Refactoring Guru",
+    "description": "External learning resource for OOP.",
+    "url": "https://refactoring.guru/design-patterns",
+    "published": true
+  },
+  {
+    "id": 30,
+    "skill": "OOP",
+    "type": "Apna College Video",
+    "title": "Apna College OOP Video Resources",
+    "description": "Official Apna College YouTube search for OOP-related lectures.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=OOP",
+    "published": true
+  },
+  {
+    "id": 31,
+    "skill": "Web Development",
+    "type": "Notes / PDF Resource",
+    "title": "Web Development Fundamentals Notes & Study Resources",
+    "description": "Core concepts, interview preparation topics and study references for Web Development.",
+    "url": "https://developer.mozilla.org/en-US/",
+    "published": true
+  },
+  {
+    "id": 32,
+    "skill": "Web Development",
+    "type": "Useful Link",
+    "title": "freeCodeCamp",
+    "description": "External learning resource for Web Development.",
+    "url": "https://www.freecodecamp.org/",
+    "published": true
+  },
+  {
+    "id": 33,
+    "skill": "Web Development",
+    "type": "Apna College Video",
+    "title": "Apna College Web Development Video Resources",
+    "description": "Official Apna College YouTube search for Web Development-related lectures.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=Web%20Development",
+    "published": true
+  },
+  {
+    "id": 34,
+    "skill": "AI/ML",
+    "type": "Notes / PDF Resource",
+    "title": "AI/ML Fundamentals Notes & Study Resources",
+    "description": "Core concepts, interview preparation topics and study references for AI/ML.",
+    "url": "https://scikit-learn.org/stable/user_guide.html",
+    "published": true
+  },
+  {
+    "id": 35,
+    "skill": "AI/ML",
+    "type": "Useful Link",
+    "title": "Kaggle Learn",
+    "description": "External learning resource for AI/ML.",
+    "url": "https://www.kaggle.com/learn",
+    "published": true
+  },
+  {
+    "id": 36,
+    "skill": "Cloud",
+    "type": "Notes / PDF Resource",
+    "title": "Cloud Fundamentals Notes & Study Resources",
+    "description": "Core concepts, interview preparation topics and study references for Cloud.",
+    "url": "https://aws.amazon.com/training/",
+    "published": true
+  },
+  {
+    "id": 37,
+    "skill": "Cloud",
+    "type": "Useful Link",
+    "title": "Microsoft Learn Azure",
+    "description": "External learning resource for Cloud.",
+    "url": "https://learn.microsoft.com/training/azure/",
+    "published": true
+  },
+  {
+    "id": 38,
+    "skill": "Cybersecurity",
+    "type": "Notes / PDF Resource",
+    "title": "Cybersecurity Fundamentals Notes & Study Resources",
+    "description": "Core concepts, interview preparation topics and study references for Cybersecurity.",
+    "url": "https://owasp.org/www-project-top-ten/",
+    "published": true
+  },
+  {
+    "id": 39,
+    "skill": "Cybersecurity",
+    "type": "Useful Link",
+    "title": "PortSwigger Web Security Academy",
+    "description": "External learning resource for Cybersecurity.",
+    "url": "https://portswigger.net/web-security",
+    "published": true
+  },
+  {
+    "id": 40,
+    "skill": "Embedded/VLSI",
+    "type": "Notes / PDF Resource",
+    "title": "Embedded/VLSI Fundamentals Notes & Study Resources",
+    "description": "Core concepts, interview preparation topics and study references for Embedded/VLSI.",
+    "url": "https://docs.arduino.cc/",
+    "published": true
+  },
+  {
+    "id": 41,
+    "skill": "Embedded/VLSI",
+    "type": "Useful Link",
+    "title": "All About Circuits",
+    "description": "External learning resource for Embedded/VLSI.",
+    "url": "https://www.allaboutcircuits.com/",
+    "published": true
+  },
+  {
+    "id": 42,
+    "skill": "C/C++",
+    "type": "Notes / PDF Resource",
+    "title": "C/C++ Core Notes",
+    "description": "Core fundamentals, important concepts and placement preparation notes for C/C++.",
+    "url": "https://www.geeksforgeeks.org/",
+    "published": true
+  },
+  {
+    "id": 43,
+    "skill": "C/C++",
+    "type": "Video",
+    "title": "C/C++ — Apna College Video Resources",
+    "description": "Official Apna College YouTube resource/search for C/C++.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=C/C++",
+    "published": true
+  },
+  {
+    "id": 44,
+    "skill": "Java",
+    "type": "Notes / PDF Resource",
+    "title": "Java Core Notes",
+    "description": "Core fundamentals, important concepts and placement preparation notes for Java.",
+    "url": "https://www.geeksforgeeks.org/",
+    "published": true
+  },
+  {
+    "id": 45,
+    "skill": "Java",
+    "type": "Video",
+    "title": "Java — Apna College Video Resources",
+    "description": "Official Apna College YouTube resource/search for Java.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=Java",
+    "published": true
+  },
+  {
+    "id": 46,
+    "skill": "Python",
+    "type": "Notes / PDF Resource",
+    "title": "Python Core Notes",
+    "description": "Core fundamentals, important concepts and placement preparation notes for Python.",
+    "url": "https://www.geeksforgeeks.org/",
+    "published": true
+  },
+  {
+    "id": 47,
+    "skill": "Python",
+    "type": "Video",
+    "title": "Python — Apna College Video Resources",
+    "description": "Official Apna College YouTube resource/search for Python.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=Python",
+    "published": true
+  },
+  {
+    "id": 48,
+    "skill": "JavaScript",
+    "type": "Notes / PDF Resource",
+    "title": "JavaScript Core Notes",
+    "description": "Core fundamentals, important concepts and placement preparation notes for JavaScript.",
+    "url": "https://www.geeksforgeeks.org/",
+    "published": true
+  },
+  {
+    "id": 49,
+    "skill": "JavaScript",
+    "type": "Video",
+    "title": "JavaScript — Apna College Video Resources",
+    "description": "Official Apna College YouTube resource/search for JavaScript.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=JavaScript",
+    "published": true
+  },
+  {
+    "id": 50,
+    "skill": "HTML/CSS",
+    "type": "Notes / PDF Resource",
+    "title": "HTML/CSS Core Notes",
+    "description": "Core fundamentals, important concepts and placement preparation notes for HTML/CSS.",
+    "url": "https://www.geeksforgeeks.org/",
+    "published": true
+  },
+  {
+    "id": 51,
+    "skill": "HTML/CSS",
+    "type": "Video",
+    "title": "HTML/CSS — Apna College Video Resources",
+    "description": "Official Apna College YouTube resource/search for HTML/CSS.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=HTML/CSS",
+    "published": true
+  },
+  {
+    "id": 52,
+    "skill": "SQL",
+    "type": "Notes / PDF Resource",
+    "title": "SQL Core Notes",
+    "description": "Core fundamentals, important concepts and placement preparation notes for SQL.",
+    "url": "https://www.geeksforgeeks.org/",
+    "published": true
+  },
+  {
+    "id": 53,
+    "skill": "SQL",
+    "type": "Video",
+    "title": "SQL — Apna College Video Resources",
+    "description": "Official Apna College YouTube resource/search for SQL.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=SQL",
+    "published": true
+  },
+  {
+    "id": 54,
+    "skill": "DSA",
+    "type": "Notes / PDF Resource",
+    "title": "DSA Core Notes",
+    "description": "Core fundamentals, important concepts and placement preparation notes for DSA.",
+    "url": "https://www.geeksforgeeks.org/",
+    "published": true
+  },
+  {
+    "id": 55,
+    "skill": "DSA",
+    "type": "Video",
+    "title": "DSA — Apna College Video Resources",
+    "description": "Official Apna College YouTube resource/search for DSA.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=DSA",
+    "published": true
+  },
+  {
+    "id": 56,
+    "skill": "DBMS",
+    "type": "Notes / PDF Resource",
+    "title": "DBMS Core Notes",
+    "description": "Core fundamentals, important concepts and placement preparation notes for DBMS.",
+    "url": "https://www.geeksforgeeks.org/",
+    "published": true
+  },
+  {
+    "id": 57,
+    "skill": "DBMS",
+    "type": "Video",
+    "title": "DBMS — Apna College Video Resources",
+    "description": "Official Apna College YouTube resource/search for DBMS.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=DBMS",
+    "published": true
+  },
+  {
+    "id": 58,
+    "skill": "OS",
+    "type": "Notes / PDF Resource",
+    "title": "OS Core Notes",
+    "description": "Core fundamentals, important concepts and placement preparation notes for OS.",
+    "url": "https://www.geeksforgeeks.org/",
+    "published": true
+  },
+  {
+    "id": 59,
+    "skill": "OS",
+    "type": "Video",
+    "title": "OS — Apna College Video Resources",
+    "description": "Official Apna College YouTube resource/search for OS.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=OS",
+    "published": true
+  },
+  {
+    "id": 60,
+    "skill": "CN",
+    "type": "Notes / PDF Resource",
+    "title": "CN Core Notes",
+    "description": "Core fundamentals, important concepts and placement preparation notes for CN.",
+    "url": "https://www.geeksforgeeks.org/",
+    "published": true
+  },
+  {
+    "id": 61,
+    "skill": "CN",
+    "type": "Video",
+    "title": "CN — Apna College Video Resources",
+    "description": "Official Apna College YouTube resource/search for CN.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=CN",
+    "published": true
+  },
+  {
+    "id": 62,
+    "skill": "OOP",
+    "type": "Notes / PDF Resource",
+    "title": "OOP Core Notes",
+    "description": "Core fundamentals, important concepts and placement preparation notes for OOP.",
+    "url": "https://www.geeksforgeeks.org/",
+    "published": true
+  },
+  {
+    "id": 63,
+    "skill": "OOP",
+    "type": "Video",
+    "title": "OOP — Apna College Video Resources",
+    "description": "Official Apna College YouTube resource/search for OOP.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=OOP",
+    "published": true
+  },
+  {
+    "id": 64,
+    "skill": "Web Development",
+    "type": "Notes / PDF Resource",
+    "title": "Web Development Core Notes",
+    "description": "Core fundamentals, important concepts and placement preparation notes for Web Development.",
+    "url": "https://www.geeksforgeeks.org/",
+    "published": true
+  },
+  {
+    "id": 65,
+    "skill": "Web Development",
+    "type": "Video",
+    "title": "Web Development — Apna College Video Resources",
+    "description": "Official Apna College YouTube resource/search for Web Development.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=Web%20Development",
+    "published": true
+  },
+  {
+    "id": 66,
+    "skill": "AI/ML",
+    "type": "Notes / PDF Resource",
+    "title": "AI/ML Core Notes",
+    "description": "Core fundamentals, important concepts and placement preparation notes for AI/ML.",
+    "url": "https://www.geeksforgeeks.org/",
+    "published": true
+  },
+  {
+    "id": 67,
+    "skill": "AI/ML",
+    "type": "Video",
+    "title": "AI/ML — Apna College Video Resources",
+    "description": "Official Apna College YouTube resource/search for AI/ML.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=AI/ML",
+    "published": true
+  },
+  {
+    "id": 68,
+    "skill": "Cloud",
+    "type": "Notes / PDF Resource",
+    "title": "Cloud Core Notes",
+    "description": "Core fundamentals, important concepts and placement preparation notes for Cloud.",
+    "url": "https://www.geeksforgeeks.org/",
+    "published": true
+  },
+  {
+    "id": 69,
+    "skill": "Cloud",
+    "type": "Video",
+    "title": "Cloud — Apna College Video Resources",
+    "description": "Official Apna College YouTube resource/search for Cloud.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=Cloud",
+    "published": true
+  },
+  {
+    "id": 70,
+    "skill": "Cybersecurity",
+    "type": "Notes / PDF Resource",
+    "title": "Cybersecurity Core Notes",
+    "description": "Core fundamentals, important concepts and placement preparation notes for Cybersecurity.",
+    "url": "https://www.geeksforgeeks.org/",
+    "published": true
+  },
+  {
+    "id": 71,
+    "skill": "Cybersecurity",
+    "type": "Video",
+    "title": "Cybersecurity — Apna College Video Resources",
+    "description": "Official Apna College YouTube resource/search for Cybersecurity.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=Cybersecurity",
+    "published": true
+  },
+  {
+    "id": 72,
+    "skill": "Embedded/VLSI",
+    "type": "Notes / PDF Resource",
+    "title": "Embedded/VLSI Core Notes",
+    "description": "Core fundamentals, important concepts and placement preparation notes for Embedded/VLSI.",
+    "url": "https://www.geeksforgeeks.org/",
+    "published": true
+  },
+  {
+    "id": 73,
+    "skill": "Embedded/VLSI",
+    "type": "Video",
+    "title": "Embedded/VLSI — Apna College Video Resources",
+    "description": "Official Apna College YouTube resource/search for Embedded/VLSI.",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial/search?query=Embedded/VLSI",
+    "published": true
+  }
+]
