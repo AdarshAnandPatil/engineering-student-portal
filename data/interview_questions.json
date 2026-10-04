@@ -1,0 +1,604 @@
+[
+  {
+    "id": 1,
+    "category": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "I am an engineering student with a strong interest in software development and problem solving. I have been building practical projects and learning programming, SQL, web development and core computer-science concepts. I enjoy learning new technologies, working with a team and turning requirements into working solutions. I am now looking for an opportunity where I can apply these skills, learn from experienced engineers and contribute to real projects.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 2,
+    "category": "HR",
+    "question": "Why should we hire you?",
+    "answer": "You should consider me because I have a solid foundation in programming, SQL and software-development concepts and I have applied them through academic and practical projects. I am willing to learn, I take feedback seriously and I focus on completing work correctly. I can contribute as a fresher while continuously improving my technical and communication skills.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 3,
+    "category": "HR",
+    "question": "Why do you want to join our company?",
+    "answer": "I want to join because the role matches the skills I am building and gives me an opportunity to work on real engineering problems. I would like to learn from experienced team members, contribute to projects and grow into a dependable software professional. I would also study the company and role-specific requirements before the interview.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 4,
+    "category": "HR",
+    "question": "What are your strengths?",
+    "answer": "My strengths are consistent learning, problem solving and willingness to take responsibility. When I face an unfamiliar topic, I break it into smaller parts, learn the fundamentals and practice until I can apply it. I also try to communicate clearly and work well with teammates.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 5,
+    "category": "HR",
+    "question": "What is one weakness you are improving?",
+    "answer": "Earlier, I sometimes spent too much time trying to make a solution perfect before moving forward. I am improving this by setting time limits, prioritizing important requirements first and then refining the solution after the main work is complete.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 6,
+    "category": "HR",
+    "question": "Where do you see yourself in five years?",
+    "answer": "In five years, I want to be a dependable software professional with strong technical depth in my chosen area. I would like to take ownership of meaningful projects, keep improving my problem-solving skills and gradually contribute to design and mentoring responsibilities.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 7,
+    "category": "HR",
+    "question": "Why did you choose engineering?",
+    "answer": "I chose engineering because I enjoy understanding how technology works and using it to solve practical problems. Software and engineering projects give me opportunities to combine logical thinking, creativity and continuous learning.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 8,
+    "category": "HR",
+    "question": "Are you willing to relocate?",
+    "answer": "Yes, I am open to relocation when the role requires it. I would first understand the location, role expectations and practical arrangements, and then plan accordingly.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 9,
+    "category": "HR",
+    "question": "How do you handle pressure?",
+    "answer": "I handle pressure by separating urgent tasks from important tasks, making a short plan and completing work step by step. If I face a blocker, I communicate it early instead of waiting until the deadline.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 10,
+    "category": "HR",
+    "question": "Tell me about a failure and what you learned.",
+    "answer": "One useful lesson from a project challenge is that starting implementation before clarifying requirements can create rework. I learned to break requirements into smaller tasks, test each part early and take feedback before making large changes.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 11,
+    "category": "HR",
+    "question": "How do you resolve a team conflict?",
+    "answer": "I first listen to each person and understand the actual disagreement. Then I focus the discussion on the project requirement rather than personal preferences, compare the available options and agree on a practical decision. If needed, I involve a senior or guide for clarification.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 12,
+    "category": "HR",
+    "question": "How do you manage deadlines?",
+    "answer": "I divide the work into smaller tasks, estimate the effort, identify dependencies and set checkpoints before the final deadline. I complete the highest-risk tasks early and communicate quickly if a dependency may affect the schedule.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 13,
+    "category": "HR",
+    "question": "Describe a leadership experience.",
+    "answer": "In a team project, I can demonstrate leadership by dividing work according to each member\u2019s strengths, keeping everyone updated and helping remove blockers. I also make sure the final work is integrated and tested rather than treating each task as completely separate.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 14,
+    "category": "HR",
+    "question": "What are your career goals?",
+    "answer": "My short-term goal is to become strong in programming, databases, development tools and real project practices. My long-term goal is to take ownership of larger technical responsibilities and become a professional who can design, build and maintain reliable software.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 15,
+    "category": "HR",
+    "question": "Why should we select you?",
+    "answer": "You should consider me because I have a solid foundation in programming, SQL and software-development concepts and I have applied them through academic and practical projects. I am willing to learn, I take feedback seriously and I focus on completing work correctly. I can contribute as a fresher while continuously improving my technical and communication skills.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 16,
+    "category": "Java",
+    "question": "Explain OOP principles.",
+    "answer": "The main OOP principles are encapsulation, abstraction, inheritance and polymorphism. Encapsulation keeps data and behavior together with controlled access, abstraction exposes essential behavior while hiding implementation, inheritance enables reuse through a parent-child relationship, and polymorphism allows the same interface to work with different implementations.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 17,
+    "category": "Java",
+    "question": "Difference between JDK, JRE and JVM.",
+    "answer": "The JDK is used to develop Java applications and includes tools such as the compiler. The JRE provides the environment required to run Java applications, while the JVM executes Java bytecode. In simple terms: JDK is for development, JRE is for running, and JVM performs execution.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 18,
+    "category": "Java",
+    "question": "What is exception handling?",
+    "answer": "Exception handling manages abnormal conditions without abruptly terminating normal application flow. Java uses try, catch, finally, throw and throws. I would catch exceptions at the level where I can handle them meaningfully and avoid hiding errors with empty catch blocks.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 19,
+    "category": "Java",
+    "question": "ArrayList vs LinkedList?",
+    "answer": "ArrayList is backed by a dynamic array and generally gives fast indexed access. LinkedList is node-based and can be useful for insertions or removals when the relevant node position is already known. In most ordinary list use cases, ArrayList is the simpler default.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 20,
+    "category": "Python",
+    "question": "List vs tuple?",
+    "answer": "A Python list is mutable, so its elements can be changed after creation. A tuple is immutable. Lists are useful when a collection needs modification, while tuples are useful for fixed collections of values.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 21,
+    "category": "Python",
+    "question": "What are decorators?",
+    "answer": "A decorator is a callable that wraps another function or class to add behavior without changing its core implementation. They are commonly used for logging, authorization, timing and other reusable cross-cutting behavior.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 22,
+    "category": "Python",
+    "question": "What is a dictionary?",
+    "answer": "A dictionary stores key-value pairs. Keys are used to retrieve values efficiently and should be hashable. Dictionaries are useful when data is naturally represented as named attributes or mappings.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 23,
+    "category": "Python",
+    "question": "Explain exception handling.",
+    "answer": "Python uses try, except, else and finally for exception handling. I would catch specific exceptions, provide a useful response or recovery path, and avoid a broad except that hides programming errors.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 24,
+    "category": "SQL",
+    "question": "What is normalization?",
+    "answer": "Normalization organizes relational data to reduce unnecessary duplication and update anomalies. Common stages include 1NF, 2NF and 3NF, where attributes and dependencies are structured so each fact is stored in an appropriate place.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 25,
+    "category": "SQL",
+    "question": "INNER JOIN vs LEFT JOIN?",
+    "answer": "INNER JOIN returns rows that have matching values in both tables. LEFT JOIN returns all rows from the left table and matching rows from the right table; unmatched right-side columns become NULL.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 26,
+    "category": "SQL",
+    "question": "Write a second-highest salary query.",
+    "answer": "One common approach is: SELECT MAX(salary) FROM employees WHERE salary < (SELECT MAX(salary) FROM employees);. For duplicate salaries, a DENSE_RANK or DISTINCT-based approach can also be used depending on the requirement.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 27,
+    "category": "SQL",
+    "question": "WHERE vs HAVING?",
+    "answer": "WHERE filters rows before grouping, while HAVING filters groups after GROUP BY and can use aggregate conditions such as COUNT or SUM.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 28,
+    "category": "DSA",
+    "question": "What is time complexity?",
+    "answer": "Time complexity describes how an algorithm\u2019s running time grows with input size. For example, a single loop over n items is commonly O(n), while binary search is O(log n) because the search space is roughly halved each step.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 29,
+    "category": "DSA",
+    "question": "Array vs linked list?",
+    "answer": "Arrays provide direct indexed access and usually contiguous storage, while linked lists store nodes connected by links. Arrays are generally better for random access; linked lists can be useful when frequent structural changes are required and positions are already known.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 30,
+    "category": "DSA",
+    "question": "Stack vs queue?",
+    "answer": "A stack follows LIFO: the last item added is removed first. A queue follows FIFO: the first item added is removed first. Stacks are common in recursion and undo operations, while queues are common in scheduling and breadth-first search.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 31,
+    "category": "DSA",
+    "question": "What is binary search?",
+    "answer": "Binary search works on sorted data. It compares the target with the middle element and discards half of the remaining search space each step, giving O(log n) time.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 32,
+    "category": "DBMS",
+    "question": "What is a primary key?",
+    "answer": "A primary key uniquely identifies each row in a table and cannot contain NULL values. A foreign key references a key in another table and helps maintain referential integrity.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 33,
+    "category": "DBMS",
+    "question": "What is indexing?",
+    "answer": "An index is an additional data structure that helps the database find rows faster for selected queries. It can improve reads but consumes storage and may add overhead to inserts, updates and deletes.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 34,
+    "category": "DBMS",
+    "question": "Explain ACID properties.",
+    "answer": "ACID means Atomicity, Consistency, Isolation and Durability. Together these properties help database transactions remain reliable: all-or-nothing changes, valid states, controlled concurrency and persistence after commit.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 35,
+    "category": "DBMS",
+    "question": "What is a transaction?",
+    "answer": "A transaction is a logical unit of database work. It can contain multiple operations and is normally completed with COMMIT or undone with ROLLBACK according to the application requirement.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 36,
+    "category": "OS",
+    "question": "Process vs thread?",
+    "answer": "A process is an independent program execution environment with its own address space, while a thread is a smaller execution unit within a process and typically shares process resources. Threads are lighter to create and communicate through shared memory.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 37,
+    "category": "OS",
+    "question": "What is deadlock?",
+    "answer": "Deadlock occurs when processes or threads wait indefinitely for resources held by one another. The classic necessary conditions are mutual exclusion, hold and wait, no preemption and circular wait.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 38,
+    "category": "OS",
+    "question": "What is virtual memory?",
+    "answer": "Virtual memory lets an operating system provide processes with an address space larger or more flexible than physical RAM by using techniques such as paging and disk-backed storage.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 39,
+    "category": "OS",
+    "question": "What is scheduling?",
+    "answer": "CPU scheduling decides which ready process or thread gets CPU time. Common algorithms include FCFS, SJF, Round Robin and priority scheduling, each with different trade-offs in response time, throughput and fairness.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 40,
+    "category": "CN",
+    "question": "TCP vs UDP?",
+    "answer": "TCP is connection-oriented and provides reliable, ordered delivery with retransmission and flow/congestion control. UDP is connectionless and has lower overhead but does not guarantee delivery or ordering.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 41,
+    "category": "CN",
+    "question": "What is DNS?",
+    "answer": "DNS translates domain names such as example.com into IP addresses and supports other records used by network services. It allows users to use readable names instead of remembering numerical addresses.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 42,
+    "category": "CN",
+    "question": "HTTP vs HTTPS?",
+    "answer": "HTTP transfers web data without transport encryption by itself. HTTPS is HTTP over TLS, providing encryption, server authentication and integrity for the connection.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 43,
+    "category": "CN",
+    "question": "What is an IP address?",
+    "answer": "An IP address identifies a network interface for communication at the Internet Protocol layer. IPv4 uses 32-bit addresses and IPv6 uses 128-bit addresses.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 44,
+    "category": "OOP",
+    "question": "Encapsulation vs abstraction?",
+    "answer": "I would answer this question with a short definition, explain the important concept in simple terms, and give a small practical example. I would also connect the answer to a project or situation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 45,
+    "category": "OOP",
+    "question": "Inheritance types?",
+    "answer": "I would answer this question with a short definition, explain the important concept in simple terms, and give a small practical example. I would also connect the answer to a project or situation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 46,
+    "category": "OOP",
+    "question": "Polymorphism?",
+    "answer": "I would answer this question with a short definition, explain the important concept in simple terms, and give a small practical example. I would also connect the answer to a project or situation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 47,
+    "category": "OOP",
+    "question": "Interface vs class?",
+    "answer": "I would answer this question with a short definition, explain the important concept in simple terms, and give a small practical example. I would also connect the answer to a project or situation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 48,
+    "category": "Project",
+    "question": "Explain your project.",
+    "answer": "I would explain my project in this order: the real problem, target users, main workflow, technologies, my individual contribution, database or model design, testing, deployment and the result. I would keep the first explanation concise and then go deeper based on the interviewer\u2019s questions.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 49,
+    "category": "Project",
+    "question": "What problem does your project solve?",
+    "answer": "The project solves a specific user problem by replacing a manual or inefficient process with a structured digital workflow. I would explain the existing problem, the users affected and how each major feature addresses it.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 50,
+    "category": "Project",
+    "question": "Why did you choose this project?",
+    "answer": "I chose the project because it addresses a practical problem and gives me an opportunity to apply the technologies I was learning. I also wanted a project where I could demonstrate both implementation skills and problem-solving.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 51,
+    "category": "Project",
+    "question": "What was your role?",
+    "answer": "My contribution should be explained specifically: the modules I designed or implemented, the APIs or database work I handled, the testing I performed and the problems I solved. I would clearly separate my work from the team\u2019s work.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 52,
+    "category": "Project",
+    "question": "Explain the architecture.",
+    "answer": "I would explain the architecture from the user interface to the backend/API layer, business logic, database and any external services. I would describe how data moves through the system and why the selected separation makes the application easier to test and maintain.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 53,
+    "category": "Project",
+    "question": "Why did you choose these technologies?",
+    "answer": "I selected technologies based on project requirements, learning goals and maintainability. I would explain what each technology contributes, why it fits the problem and what alternatives I considered.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 54,
+    "category": "Project",
+    "question": "What database did you use and why?",
+    "answer": "I would choose the database based on the data model, relationships, query needs, consistency requirements and expected scale. I would also explain the tables, keys, indexes and how the application validates data.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 55,
+    "category": "Project",
+    "question": "What was the hardest technical issue?",
+    "answer": "The hardest technical issue was identifying the real cause instead of only treating the visible error. I broke the problem into smaller parts, checked inputs and logs, tested one change at a time and verified the fix with repeatable tests.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 56,
+    "category": "Project",
+    "question": "How did you test it?",
+    "answer": "I would test normal cases, invalid input, boundary cases and failure conditions. I would test individual modules first, then API and database integration, and finally the complete user workflow.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 57,
+    "category": "Project",
+    "question": "How would you scale it?",
+    "answer": "To scale the project, I would first measure the bottleneck. Depending on the result, I could improve database indexes and queries, add caching, separate services where useful, use asynchronous processing and deploy multiple application instances behind a load balancer.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 58,
+    "category": "Project",
+    "question": "What security measures did you use?",
+    "answer": "I would validate input, protect authentication credentials, enforce authorization, avoid exposing sensitive errors, use parameterized database queries and keep dependencies updated. Error handling should give users safe messages while keeping useful details in controlled logs.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 59,
+    "category": "Project",
+    "question": "What would you improve?",
+    "answer": "I would improve the project based on user feedback and measured limitations. Possible improvements include better validation, accessibility, performance, testing coverage, analytics, security hardening and a cleaner deployment pipeline.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 60,
+    "category": "Project",
+    "question": "How would you deploy it?",
+    "answer": "I would prepare environment variables, production configuration, database setup, build/start commands, logging and health checks, then deploy to a suitable platform. After deployment I would test the main user flows and monitor errors.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 61,
+    "category": "HR",
+    "question": "Why do you want to join this company?",
+    "answer": "I want to join because the role matches the skills I am building and gives me an opportunity to work on real engineering problems. I would like to learn from experienced team members, contribute to projects and grow into a dependable software professional. I would also study the company and role-specific requirements before the interview.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 62,
+    "category": "HR",
+    "question": "What is your weakness?",
+    "answer": "Earlier, I sometimes spent too much time trying to make a solution perfect before moving forward. I am improving this by setting time limits, prioritizing important requirements first and then refining the solution after the main work is complete.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 63,
+    "category": "HR",
+    "question": "How do you resolve team conflicts?",
+    "answer": "I first listen to each person and understand the actual disagreement. Then I focus the discussion on the project requirement rather than personal preferences, compare the available options and agree on a practical decision. If needed, I involve a senior or guide for clarification.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 64,
+    "category": "HR",
+    "question": "Explain a time you showed leadership.",
+    "answer": "In a team project, I can demonstrate leadership by dividing work according to each member\u2019s strengths, keeping everyone updated and helping remove blockers. I also make sure the final work is integrated and tested rather than treating each task as completely separate.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 65,
+    "category": "HR",
+    "question": "Explain something on your resume that you are proud of.",
+    "answer": "One part of my resume I am proud of is the project work because it shows how I applied classroom concepts to a working system. I can explain the problem, architecture, my individual contribution, technical challenges, testing and what I would improve next.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 66,
+    "category": "Technical",
+    "question": "Explain OOP concepts.",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 67,
+    "category": "Technical",
+    "question": "What is the difference between process and thread?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 68,
+    "category": "Technical",
+    "question": "What is normalization in DBMS?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 69,
+    "category": "Technical",
+    "question": "What is a primary key and foreign key?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 70,
+    "category": "Technical",
+    "question": "Explain INNER JOIN and LEFT JOIN.",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 71,
+    "category": "Technical",
+    "question": "What is an index in a database?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 72,
+    "category": "Technical",
+    "question": "What is polymorphism?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 73,
+    "category": "Technical",
+    "question": "What is REST API?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 74,
+    "category": "Technical",
+    "question": "What is the difference between stack and queue?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 75,
+    "category": "Technical",
+    "question": "What is a deadlock?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 76,
+    "category": "Technical",
+    "question": "Explain TCP vs UDP.",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 77,
+    "category": "Technical",
+    "question": "What is HTTP vs HTTPS?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 78,
+    "category": "Technical",
+    "question": "What is inheritance?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 79,
+    "category": "Project",
+    "question": "Explain your project in two minutes.",
+    "answer": "I would explain my project in this order: the real problem, target users, main workflow, technologies, my individual contribution, database or model design, testing, deployment and the result. I would keep the first explanation concise and then go deeper based on the interviewer\u2019s questions.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 80,
+    "category": "Project",
+    "question": "What was your contribution?",
+    "answer": "My contribution should be explained specifically: the modules I designed or implemented, the APIs or database work I handled, the testing I performed and the problems I solved. I would clearly separate my work from the team\u2019s work.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 81,
+    "category": "Project",
+    "question": "What was the hardest technical problem?",
+    "answer": "The hardest technical issue was identifying the real cause instead of only treating the visible error. I broke the problem into smaller parts, checked inputs and logs, tested one change at a time and verified the fix with repeatable tests.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 82,
+    "category": "Project",
+    "question": "How did you test your project?",
+    "answer": "I would test normal cases, invalid input, boundary cases and failure conditions. I would test individual modules first, then API and database integration, and finally the complete user workflow.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 83,
+    "category": "Project",
+    "question": "Why did you choose your technology stack?",
+    "answer": "I selected technologies based on project requirements, learning goals and maintainability. I would explain what each technology contributes, why it fits the problem and what alternatives I considered.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 84,
+    "category": "Project",
+    "question": "How would you scale the project?",
+    "answer": "To scale the project, I would first measure the bottleneck. Depending on the result, I could improve database indexes and queries, add caching, separate services where useful, use asynchronous processing and deploy multiple application instances behind a load balancer.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 85,
+    "category": "Project",
+    "question": "What would you improve in the next version?",
+    "answer": "I would improve the project based on user feedback and measured limitations. Possible improvements include better validation, accessibility, performance, testing coverage, analytics, security hardening and a cleaner deployment pipeline.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 86,
+    "category": "Project",
+    "question": "How did you handle errors and security?",
+    "answer": "I would validate input, protect authentication credentials, enforce authorization, avoid exposing sensitive errors, use parameterized database queries and keep dependencies updated. Error handling should give users safe messages while keeping useful details in controlled logs.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  }
+]
