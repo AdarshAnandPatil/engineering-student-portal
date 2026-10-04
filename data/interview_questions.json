@@ -1,0 +1,1682 @@
+[
+  {
+    "id": 1,
+    "category": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "I am an engineering student with a strong interest in software development and problem solving. I have been building practical projects and learning programming, SQL, web development and core computer-science concepts. I enjoy learning new technologies, working with a team and turning requirements into working solutions. I am now looking for an opportunity where I can apply these skills, learn from experienced engineers and contribute to real projects.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 2,
+    "category": "HR",
+    "question": "Why should we hire you?",
+    "answer": "You should consider me because I have a solid foundation in programming, SQL and software-development concepts and I have applied them through academic and practical projects. I am willing to learn, I take feedback seriously and I focus on completing work correctly. I can contribute as a fresher while continuously improving my technical and communication skills.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 3,
+    "category": "HR",
+    "question": "Why do you want to join our company?",
+    "answer": "I want to join because the role matches the skills I am building and gives me an opportunity to work on real engineering problems. I would like to learn from experienced team members, contribute to projects and grow into a dependable software professional. I would also study the company and role-specific requirements before the interview.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 4,
+    "category": "HR",
+    "question": "What are your strengths?",
+    "answer": "My strengths are consistent learning, problem solving and willingness to take responsibility. When I face an unfamiliar topic, I break it into smaller parts, learn the fundamentals and practice until I can apply it. I also try to communicate clearly and work well with teammates.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 5,
+    "category": "HR",
+    "question": "What is one weakness you are improving?",
+    "answer": "Earlier, I sometimes spent too much time trying to make a solution perfect before moving forward. I am improving this by setting time limits, prioritizing important requirements first and then refining the solution after the main work is complete.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 6,
+    "category": "HR",
+    "question": "Where do you see yourself in five years?",
+    "answer": "In five years, I want to be a dependable software professional with strong technical depth in my chosen area. I would like to take ownership of meaningful projects, keep improving my problem-solving skills and gradually contribute to design and mentoring responsibilities.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 7,
+    "category": "HR",
+    "question": "Why did you choose engineering?",
+    "answer": "I chose engineering because I enjoy understanding how technology works and using it to solve practical problems. Software and engineering projects give me opportunities to combine logical thinking, creativity and continuous learning.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 8,
+    "category": "HR",
+    "question": "Are you willing to relocate?",
+    "answer": "Yes, I am open to relocation when the role requires it. I would first understand the location, role expectations and practical arrangements, and then plan accordingly.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 9,
+    "category": "HR",
+    "question": "How do you handle pressure?",
+    "answer": "I handle pressure by separating urgent tasks from important tasks, making a short plan and completing work step by step. If I face a blocker, I communicate it early instead of waiting until the deadline.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 10,
+    "category": "HR",
+    "question": "Tell me about a failure and what you learned.",
+    "answer": "One useful lesson from a project challenge is that starting implementation before clarifying requirements can create rework. I learned to break requirements into smaller tasks, test each part early and take feedback before making large changes.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 11,
+    "category": "HR",
+    "question": "How do you resolve a team conflict?",
+    "answer": "I first listen to each person and understand the actual disagreement. Then I focus the discussion on the project requirement rather than personal preferences, compare the available options and agree on a practical decision. If needed, I involve a senior or guide for clarification.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 12,
+    "category": "HR",
+    "question": "How do you manage deadlines?",
+    "answer": "I divide the work into smaller tasks, estimate the effort, identify dependencies and set checkpoints before the final deadline. I complete the highest-risk tasks early and communicate quickly if a dependency may affect the schedule.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 13,
+    "category": "HR",
+    "question": "Describe a leadership experience.",
+    "answer": "In a team project, I can demonstrate leadership by dividing work according to each member’s strengths, keeping everyone updated and helping remove blockers. I also make sure the final work is integrated and tested rather than treating each task as completely separate.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 14,
+    "category": "HR",
+    "question": "What are your career goals?",
+    "answer": "My short-term goal is to become strong in programming, databases, development tools and real project practices. My long-term goal is to take ownership of larger technical responsibilities and become a professional who can design, build and maintain reliable software.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 15,
+    "category": "HR",
+    "question": "Why should we select you?",
+    "answer": "You should consider me because I have a solid foundation in programming, SQL and software-development concepts and I have applied them through academic and practical projects. I am willing to learn, I take feedback seriously and I focus on completing work correctly. I can contribute as a fresher while continuously improving my technical and communication skills.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 61,
+    "category": "HR",
+    "question": "Why do you want to join this company?",
+    "answer": "I want to join because the role matches the skills I am building and gives me an opportunity to work on real engineering problems. I would like to learn from experienced team members, contribute to projects and grow into a dependable software professional. I would also study the company and role-specific requirements before the interview.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 62,
+    "category": "HR",
+    "question": "What is your weakness?",
+    "answer": "Earlier, I sometimes spent too much time trying to make a solution perfect before moving forward. I am improving this by setting time limits, prioritizing important requirements first and then refining the solution after the main work is complete.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 63,
+    "category": "HR",
+    "question": "How do you resolve team conflicts?",
+    "answer": "I first listen to each person and understand the actual disagreement. Then I focus the discussion on the project requirement rather than personal preferences, compare the available options and agree on a practical decision. If needed, I involve a senior or guide for clarification.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 64,
+    "category": "HR",
+    "question": "Explain a time you showed leadership.",
+    "answer": "In a team project, I can demonstrate leadership by dividing work according to each member’s strengths, keeping everyone updated and helping remove blockers. I also make sure the final work is integrated and tested rather than treating each task as completely separate.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 65,
+    "category": "HR",
+    "question": "Explain something on your resume that you are proud of.",
+    "answer": "One part of my resume I am proud of is the project work because it shows how I applied classroom concepts to a working system. I can explain the problem, architecture, my individual contribution, technical challenges, testing and what I would improve next.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 16,
+    "category": "Java",
+    "question": "Explain OOP principles.",
+    "answer": "The main OOP principles are encapsulation, abstraction, inheritance and polymorphism. Encapsulation keeps data and behavior together with controlled access, abstraction exposes essential behavior while hiding implementation, inheritance enables reuse through a parent-child relationship, and polymorphism allows the same interface to work with different implementations.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 17,
+    "category": "Java",
+    "question": "Difference between JDK, JRE and JVM.",
+    "answer": "The JDK is used to develop Java applications and includes tools such as the compiler. The JRE provides the environment required to run Java applications, while the JVM executes Java bytecode. In simple terms: JDK is for development, JRE is for running, and JVM performs execution.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 18,
+    "category": "Java",
+    "question": "What is exception handling?",
+    "answer": "Exception handling manages abnormal conditions without abruptly terminating normal application flow. Java uses try, catch, finally, throw and throws. I would catch exceptions at the level where I can handle them meaningfully and avoid hiding errors with empty catch blocks.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 19,
+    "category": "Java",
+    "question": "ArrayList vs LinkedList?",
+    "answer": "ArrayList is backed by a dynamic array and generally gives fast indexed access. LinkedList is node-based and can be useful for insertions or removals when the relevant node position is already known. In most ordinary list use cases, ArrayList is the simpler default.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 87,
+    "category": "Java",
+    "question": "Explain JDK vs JRE vs JVM.",
+    "answer": "A strong answer should define JDK vs JRE vs JVM clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 88,
+    "category": "Java",
+    "question": "Explain OOP principles in Java.",
+    "answer": "A strong answer should define OOP principles in Java clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 89,
+    "category": "Java",
+    "question": "Explain method overloading vs overriding.",
+    "answer": "A strong answer should define method overloading vs overriding clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 90,
+    "category": "Java",
+    "question": "Explain interface vs abstract class.",
+    "answer": "A strong answer should define interface vs abstract class clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 91,
+    "category": "Java",
+    "question": "Explain String pool.",
+    "answer": "A strong answer should define String pool clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 92,
+    "category": "Java",
+    "question": "Explain == vs equals().",
+    "answer": "A strong answer should define == vs equals() clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 93,
+    "category": "Java",
+    "question": "Explain HashMap working.",
+    "answer": "A strong answer should define HashMap working clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 94,
+    "category": "Java",
+    "question": "Explain ArrayList vs LinkedList.",
+    "answer": "A strong answer should define ArrayList vs LinkedList clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 95,
+    "category": "Java",
+    "question": "Explain checked vs unchecked exceptions.",
+    "answer": "A strong answer should define checked vs unchecked exceptions clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 96,
+    "category": "Java",
+    "question": "Explain try-with-resources.",
+    "answer": "A strong answer should define try-with-resources clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 97,
+    "category": "Java",
+    "question": "Explain Java access modifiers.",
+    "answer": "A strong answer should define Java access modifiers clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 98,
+    "category": "Java",
+    "question": "Explain static keyword.",
+    "answer": "A strong answer should define static keyword clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 99,
+    "category": "Java",
+    "question": "Explain final vs finally.",
+    "answer": "A strong answer should define final vs finally clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 100,
+    "category": "Java",
+    "question": "Explain inheritance vs composition.",
+    "answer": "A strong answer should define inheritance vs composition clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 101,
+    "category": "Java",
+    "question": "Explain generics.",
+    "answer": "A strong answer should define generics clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 102,
+    "category": "Java",
+    "question": "Explain Java streams.",
+    "answer": "A strong answer should define Java streams clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 20,
+    "category": "Python",
+    "question": "List vs tuple?",
+    "answer": "A Python list is mutable, so its elements can be changed after creation. A tuple is immutable. Lists are useful when a collection needs modification, while tuples are useful for fixed collections of values.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 21,
+    "category": "Python",
+    "question": "What are decorators?",
+    "answer": "A decorator is a callable that wraps another function or class to add behavior without changing its core implementation. They are commonly used for logging, authorization, timing and other reusable cross-cutting behavior.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 22,
+    "category": "Python",
+    "question": "What is a dictionary?",
+    "answer": "A dictionary stores key-value pairs. Keys are used to retrieve values efficiently and should be hashable. Dictionaries are useful when data is naturally represented as named attributes or mappings.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 23,
+    "category": "Python",
+    "question": "Explain exception handling.",
+    "answer": "Python uses try, except, else and finally for exception handling. I would catch specific exceptions, provide a useful response or recovery path, and avoid a broad except that hides programming errors.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 103,
+    "category": "Python",
+    "question": "Explain Why Python is popular.",
+    "answer": "A strong answer should define Why Python is popular clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 104,
+    "category": "Python",
+    "question": "Explain list vs tuple.",
+    "answer": "A strong answer should define list vs tuple clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 105,
+    "category": "Python",
+    "question": "Explain set vs dictionary.",
+    "answer": "A strong answer should define set vs dictionary clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 106,
+    "category": "Python",
+    "question": "Explain mutability.",
+    "answer": "A strong answer should define mutability clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 107,
+    "category": "Python",
+    "question": "Explain *args and **kwargs.",
+    "answer": "A strong answer should define *args and **kwargs clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 108,
+    "category": "Python",
+    "question": "Explain list comprehensions.",
+    "answer": "A strong answer should define list comprehensions clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 109,
+    "category": "Python",
+    "question": "Explain generators.",
+    "answer": "A strong answer should define generators clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 110,
+    "category": "Python",
+    "question": "Explain iterable vs iterator.",
+    "answer": "A strong answer should define iterable vs iterator clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 111,
+    "category": "Python",
+    "question": "Explain decorators.",
+    "answer": "A strong answer should define decorators clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 112,
+    "category": "Python",
+    "question": "Explain context managers.",
+    "answer": "A strong answer should define context managers clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 113,
+    "category": "Python",
+    "question": "Explain shallow vs deep copy.",
+    "answer": "A strong answer should define shallow vs deep copy clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 114,
+    "category": "Python",
+    "question": "Explain self.",
+    "answer": "A strong answer should define self clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 115,
+    "category": "Python",
+    "question": "Explain classmethod vs staticmethod.",
+    "answer": "A strong answer should define classmethod vs staticmethod clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 116,
+    "category": "Python",
+    "question": "Explain GIL concept.",
+    "answer": "A strong answer should define GIL concept clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 117,
+    "category": "Python",
+    "question": "Explain virtual environments.",
+    "answer": "A strong answer should define virtual environments clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 118,
+    "category": "Python",
+    "question": "Explain safe file handling.",
+    "answer": "A strong answer should define safe file handling clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 24,
+    "category": "SQL",
+    "question": "What is normalization?",
+    "answer": "Normalization organizes relational data to reduce unnecessary duplication and update anomalies. Common stages include 1NF, 2NF and 3NF, where attributes and dependencies are structured so each fact is stored in an appropriate place.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 25,
+    "category": "SQL",
+    "question": "INNER JOIN vs LEFT JOIN?",
+    "answer": "INNER JOIN returns rows that have matching values in both tables. LEFT JOIN returns all rows from the left table and matching rows from the right table; unmatched right-side columns become NULL.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 26,
+    "category": "SQL",
+    "question": "Write a second-highest salary query.",
+    "answer": "One common approach is: SELECT MAX(salary) FROM employees WHERE salary < (SELECT MAX(salary) FROM employees);. For duplicate salaries, a DENSE_RANK or DISTINCT-based approach can also be used depending on the requirement.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 27,
+    "category": "SQL",
+    "question": "WHERE vs HAVING?",
+    "answer": "WHERE filters rows before grouping, while HAVING filters groups after GROUP BY and can use aggregate conditions such as COUNT or SUM.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 119,
+    "category": "SQL",
+    "question": "Explain primary key.",
+    "answer": "A strong answer should define primary key clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 120,
+    "category": "SQL",
+    "question": "Explain foreign key.",
+    "answer": "A strong answer should define foreign key clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 121,
+    "category": "SQL",
+    "question": "Explain INNER JOIN vs LEFT JOIN.",
+    "answer": "A strong answer should define INNER JOIN vs LEFT JOIN clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 122,
+    "category": "SQL",
+    "question": "Explain WHERE vs HAVING.",
+    "answer": "A strong answer should define WHERE vs HAVING clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 123,
+    "category": "SQL",
+    "question": "Explain GROUP BY.",
+    "answer": "A strong answer should define GROUP BY clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 124,
+    "category": "SQL",
+    "question": "Explain duplicate rows.",
+    "answer": "A strong answer should define duplicate rows clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 125,
+    "category": "SQL",
+    "question": "Explain second-highest salary.",
+    "answer": "A strong answer should define second-highest salary clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 126,
+    "category": "SQL",
+    "question": "Explain normalization.",
+    "answer": "A strong answer should define normalization clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 127,
+    "category": "SQL",
+    "question": "Explain indexes.",
+    "answer": "A strong answer should define indexes clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 128,
+    "category": "SQL",
+    "question": "Explain transactions.",
+    "answer": "A strong answer should define transactions clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 129,
+    "category": "SQL",
+    "question": "Explain ACID.",
+    "answer": "A strong answer should define ACID clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 130,
+    "category": "SQL",
+    "question": "Explain DELETE vs TRUNCATE vs DROP.",
+    "answer": "A strong answer should define DELETE vs TRUNCATE vs DROP clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 131,
+    "category": "SQL",
+    "question": "Explain subqueries.",
+    "answer": "A strong answer should define subqueries clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 132,
+    "category": "SQL",
+    "question": "Explain CTEs.",
+    "answer": "A strong answer should define CTEs clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 133,
+    "category": "SQL",
+    "question": "Explain window functions.",
+    "answer": "A strong answer should define window functions clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 134,
+    "category": "SQL",
+    "question": "Explain NULL values.",
+    "answer": "A strong answer should define NULL values clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 28,
+    "category": "DSA",
+    "question": "What is time complexity?",
+    "answer": "Time complexity describes how an algorithm’s running time grows with input size. For example, a single loop over n items is commonly O(n), while binary search is O(log n) because the search space is roughly halved each step.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 29,
+    "category": "DSA",
+    "question": "Array vs linked list?",
+    "answer": "Arrays provide direct indexed access and usually contiguous storage, while linked lists store nodes connected by links. Arrays are generally better for random access; linked lists can be useful when frequent structural changes are required and positions are already known.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 30,
+    "category": "DSA",
+    "question": "Stack vs queue?",
+    "answer": "A stack follows LIFO: the last item added is removed first. A queue follows FIFO: the first item added is removed first. Stacks are common in recursion and undo operations, while queues are common in scheduling and breadth-first search.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 31,
+    "category": "DSA",
+    "question": "What is binary search?",
+    "answer": "Binary search works on sorted data. It compares the target with the middle element and discards half of the remaining search space each step, giving O(log n) time.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 135,
+    "category": "DSA",
+    "question": "Explain array vs linked list.",
+    "answer": "A strong answer should define array vs linked list clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 136,
+    "category": "DSA",
+    "question": "Explain stack vs queue.",
+    "answer": "A strong answer should define stack vs queue clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 137,
+    "category": "DSA",
+    "question": "Explain hash table.",
+    "answer": "A strong answer should define hash table clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 138,
+    "category": "DSA",
+    "question": "Explain binary search and complexity.",
+    "answer": "A strong answer should define binary search and complexity clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 139,
+    "category": "DSA",
+    "question": "Explain merge sort.",
+    "answer": "A strong answer should define merge sort clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 140,
+    "category": "DSA",
+    "question": "Explain quicksort.",
+    "answer": "A strong answer should define quicksort clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 141,
+    "category": "DSA",
+    "question": "Explain recursion.",
+    "answer": "A strong answer should define recursion clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 142,
+    "category": "DSA",
+    "question": "Explain BFS vs DFS.",
+    "answer": "A strong answer should define BFS vs DFS clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 143,
+    "category": "DSA",
+    "question": "Explain binary search tree.",
+    "answer": "A strong answer should define binary search tree clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 144,
+    "category": "DSA",
+    "question": "Explain heap.",
+    "answer": "A strong answer should define heap clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 145,
+    "category": "DSA",
+    "question": "Explain graph.",
+    "answer": "A strong answer should define graph clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 146,
+    "category": "DSA",
+    "question": "Explain cycle detection.",
+    "answer": "A strong answer should define cycle detection clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 147,
+    "category": "DSA",
+    "question": "Explain dynamic programming.",
+    "answer": "A strong answer should define dynamic programming clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 148,
+    "category": "DSA",
+    "question": "Explain greedy vs dynamic programming.",
+    "answer": "A strong answer should define greedy vs dynamic programming clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 149,
+    "category": "DSA",
+    "question": "Explain two-pointer technique.",
+    "answer": "A strong answer should define two-pointer technique clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 150,
+    "category": "DSA",
+    "question": "Explain sliding window.",
+    "answer": "A strong answer should define sliding window clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 32,
+    "category": "DBMS",
+    "question": "What is a primary key?",
+    "answer": "A primary key uniquely identifies each row in a table and cannot contain NULL values. A foreign key references a key in another table and helps maintain referential integrity.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 33,
+    "category": "DBMS",
+    "question": "What is indexing?",
+    "answer": "An index is an additional data structure that helps the database find rows faster for selected queries. It can improve reads but consumes storage and may add overhead to inserts, updates and deletes.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 34,
+    "category": "DBMS",
+    "question": "Explain ACID properties.",
+    "answer": "ACID means Atomicity, Consistency, Isolation and Durability. Together these properties help database transactions remain reliable: all-or-nothing changes, valid states, controlled concurrency and persistence after commit.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 35,
+    "category": "DBMS",
+    "question": "What is a transaction?",
+    "answer": "A transaction is a logical unit of database work. It can contain multiple operations and is normally completed with COMMIT or undone with ROLLBACK according to the application requirement.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 151,
+    "category": "DBMS",
+    "question": "Explain DBMS vs file system.",
+    "answer": "A strong answer should define DBMS vs file system clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 152,
+    "category": "DBMS",
+    "question": "Explain normalization.",
+    "answer": "A strong answer should define normalization clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 153,
+    "category": "DBMS",
+    "question": "Explain transactions.",
+    "answer": "A strong answer should define transactions clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 154,
+    "category": "DBMS",
+    "question": "Explain concurrency control.",
+    "answer": "A strong answer should define concurrency control clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 155,
+    "category": "DBMS",
+    "question": "Explain deadlock.",
+    "answer": "A strong answer should define deadlock clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 156,
+    "category": "DBMS",
+    "question": "Explain indexing.",
+    "answer": "A strong answer should define indexing clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 157,
+    "category": "DBMS",
+    "question": "Explain clustered vs non-clustered index.",
+    "answer": "A strong answer should define clustered vs non-clustered index clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 158,
+    "category": "DBMS",
+    "question": "Explain primary key.",
+    "answer": "A strong answer should define primary key clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 159,
+    "category": "DBMS",
+    "question": "Explain referential integrity.",
+    "answer": "A strong answer should define referential integrity clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 160,
+    "category": "DBMS",
+    "question": "Explain functional dependencies.",
+    "answer": "A strong answer should define functional dependencies clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 161,
+    "category": "DBMS",
+    "question": "Explain candidate key.",
+    "answer": "A strong answer should define candidate key clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 162,
+    "category": "DBMS",
+    "question": "Explain views.",
+    "answer": "A strong answer should define views clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 163,
+    "category": "DBMS",
+    "question": "Explain stored procedures.",
+    "answer": "A strong answer should define stored procedures clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 164,
+    "category": "DBMS",
+    "question": "Explain triggers.",
+    "answer": "A strong answer should define triggers clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 165,
+    "category": "DBMS",
+    "question": "Explain schema.",
+    "answer": "A strong answer should define schema clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 166,
+    "category": "DBMS",
+    "question": "Explain isolation levels.",
+    "answer": "A strong answer should define isolation levels clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 44,
+    "category": "OOP",
+    "question": "Encapsulation vs abstraction?",
+    "answer": "I would answer this question with a short definition, explain the important concept in simple terms, and give a small practical example. I would also connect the answer to a project or situation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 45,
+    "category": "OOP",
+    "question": "Inheritance types?",
+    "answer": "I would answer this question with a short definition, explain the important concept in simple terms, and give a small practical example. I would also connect the answer to a project or situation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 46,
+    "category": "OOP",
+    "question": "Polymorphism?",
+    "answer": "I would answer this question with a short definition, explain the important concept in simple terms, and give a small practical example. I would also connect the answer to a project or situation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 47,
+    "category": "OOP",
+    "question": "Interface vs class?",
+    "answer": "I would answer this question with a short definition, explain the important concept in simple terms, and give a small practical example. I would also connect the answer to a project or situation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 167,
+    "category": "OOP",
+    "question": "Explain encapsulation.",
+    "answer": "A strong answer should define encapsulation clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 168,
+    "category": "OOP",
+    "question": "Explain inheritance.",
+    "answer": "A strong answer should define inheritance clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 169,
+    "category": "OOP",
+    "question": "Explain polymorphism.",
+    "answer": "A strong answer should define polymorphism clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 170,
+    "category": "OOP",
+    "question": "Explain abstraction.",
+    "answer": "A strong answer should define abstraction clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 171,
+    "category": "OOP",
+    "question": "Explain class vs object.",
+    "answer": "A strong answer should define class vs object clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 172,
+    "category": "OOP",
+    "question": "Explain composition vs inheritance.",
+    "answer": "A strong answer should define composition vs inheritance clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 173,
+    "category": "OOP",
+    "question": "Explain overloading vs overriding.",
+    "answer": "A strong answer should define overloading vs overriding clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 174,
+    "category": "OOP",
+    "question": "Explain interface vs abstract class.",
+    "answer": "A strong answer should define interface vs abstract class clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 175,
+    "category": "OOP",
+    "question": "Explain constructors.",
+    "answer": "A strong answer should define constructors clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 176,
+    "category": "OOP",
+    "question": "Explain dynamic binding.",
+    "answer": "A strong answer should define dynamic binding clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 177,
+    "category": "OOP",
+    "question": "Explain cohesion.",
+    "answer": "A strong answer should define cohesion clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 178,
+    "category": "OOP",
+    "question": "Explain coupling.",
+    "answer": "A strong answer should define coupling clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 179,
+    "category": "OOP",
+    "question": "Explain access modifiers.",
+    "answer": "A strong answer should define access modifiers clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 180,
+    "category": "OOP",
+    "question": "Explain immutable objects.",
+    "answer": "A strong answer should define immutable objects clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 181,
+    "category": "OOP",
+    "question": "Explain method hiding.",
+    "answer": "A strong answer should define method hiding clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 182,
+    "category": "OOP",
+    "question": "Explain multiple inheritance.",
+    "answer": "A strong answer should define multiple inheritance clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 36,
+    "category": "OS",
+    "question": "Process vs thread?",
+    "answer": "A process is an independent program execution environment with its own address space, while a thread is a smaller execution unit within a process and typically shares process resources. Threads are lighter to create and communicate through shared memory.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 37,
+    "category": "OS",
+    "question": "What is deadlock?",
+    "answer": "Deadlock occurs when processes or threads wait indefinitely for resources held by one another. The classic necessary conditions are mutual exclusion, hold and wait, no preemption and circular wait.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 38,
+    "category": "OS",
+    "question": "What is virtual memory?",
+    "answer": "Virtual memory lets an operating system provide processes with an address space larger or more flexible than physical RAM by using techniques such as paging and disk-backed storage.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 39,
+    "category": "OS",
+    "question": "What is scheduling?",
+    "answer": "CPU scheduling decides which ready process or thread gets CPU time. Common algorithms include FCFS, SJF, Round Robin and priority scheduling, each with different trade-offs in response time, throughput and fairness.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 183,
+    "category": "OS",
+    "question": "Explain process vs thread.",
+    "answer": "A strong answer should define process vs thread clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 184,
+    "category": "OS",
+    "question": "Explain process control block.",
+    "answer": "A strong answer should define process control block clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 185,
+    "category": "OS",
+    "question": "Explain context switching.",
+    "answer": "A strong answer should define context switching clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 186,
+    "category": "OS",
+    "question": "Explain virtual memory.",
+    "answer": "A strong answer should define virtual memory clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 187,
+    "category": "OS",
+    "question": "Explain paging vs segmentation.",
+    "answer": "A strong answer should define paging vs segmentation clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 188,
+    "category": "OS",
+    "question": "Explain page fault.",
+    "answer": "A strong answer should define page fault clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 189,
+    "category": "OS",
+    "question": "Explain deadlock.",
+    "answer": "A strong answer should define deadlock clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 190,
+    "category": "OS",
+    "question": "Explain deadlock prevention vs avoidance.",
+    "answer": "A strong answer should define deadlock prevention vs avoidance clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 191,
+    "category": "OS",
+    "question": "Explain CPU scheduling.",
+    "answer": "A strong answer should define CPU scheduling clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 192,
+    "category": "OS",
+    "question": "Explain FCFS vs SJF vs Round Robin.",
+    "answer": "A strong answer should define FCFS vs SJF vs Round Robin clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 193,
+    "category": "OS",
+    "question": "Explain synchronization.",
+    "answer": "A strong answer should define synchronization clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 194,
+    "category": "OS",
+    "question": "Explain semaphore.",
+    "answer": "A strong answer should define semaphore clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 195,
+    "category": "OS",
+    "question": "Explain mutex.",
+    "answer": "A strong answer should define mutex clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 196,
+    "category": "OS",
+    "question": "Explain user vs kernel mode.",
+    "answer": "A strong answer should define user vs kernel mode clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 197,
+    "category": "OS",
+    "question": "Explain system calls.",
+    "answer": "A strong answer should define system calls clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 198,
+    "category": "OS",
+    "question": "Explain fragmentation.",
+    "answer": "A strong answer should define fragmentation clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 40,
+    "category": "CN",
+    "question": "TCP vs UDP?",
+    "answer": "TCP is connection-oriented and provides reliable, ordered delivery with retransmission and flow/congestion control. UDP is connectionless and has lower overhead but does not guarantee delivery or ordering.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 41,
+    "category": "CN",
+    "question": "What is DNS?",
+    "answer": "DNS translates domain names such as example.com into IP addresses and supports other records used by network services. It allows users to use readable names instead of remembering numerical addresses.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 42,
+    "category": "CN",
+    "question": "HTTP vs HTTPS?",
+    "answer": "HTTP transfers web data without transport encryption by itself. HTTPS is HTTP over TLS, providing encryption, server authentication and integrity for the connection.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 43,
+    "category": "CN",
+    "question": "What is an IP address?",
+    "answer": "An IP address identifies a network interface for communication at the Internet Protocol layer. IPv4 uses 32-bit addresses and IPv6 uses 128-bit addresses.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 199,
+    "category": "CN",
+    "question": "Explain OSI vs TCP/IP.",
+    "answer": "A strong answer should define OSI vs TCP/IP clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 200,
+    "category": "CN",
+    "question": "Explain IP address.",
+    "answer": "A strong answer should define IP address clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 201,
+    "category": "CN",
+    "question": "Explain TCP vs UDP.",
+    "answer": "A strong answer should define TCP vs UDP clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 202,
+    "category": "CN",
+    "question": "Explain DNS.",
+    "answer": "A strong answer should define DNS clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 203,
+    "category": "CN",
+    "question": "Explain HTTP vs HTTPS.",
+    "answer": "A strong answer should define HTTP vs HTTPS clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 204,
+    "category": "CN",
+    "question": "Explain MAC address.",
+    "answer": "A strong answer should define MAC address clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 205,
+    "category": "CN",
+    "question": "Explain ARP.",
+    "answer": "A strong answer should define ARP clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 206,
+    "category": "CN",
+    "question": "Explain DHCP.",
+    "answer": "A strong answer should define DHCP clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 207,
+    "category": "CN",
+    "question": "Explain subnetting.",
+    "answer": "A strong answer should define subnetting clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 208,
+    "category": "CN",
+    "question": "Explain NAT.",
+    "answer": "A strong answer should define NAT clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 209,
+    "category": "CN",
+    "question": "Explain router.",
+    "answer": "A strong answer should define router clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 210,
+    "category": "CN",
+    "question": "Explain switch.",
+    "answer": "A strong answer should define switch clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 211,
+    "category": "CN",
+    "question": "Explain firewall.",
+    "answer": "A strong answer should define firewall clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 212,
+    "category": "CN",
+    "question": "Explain port.",
+    "answer": "A strong answer should define port clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 213,
+    "category": "CN",
+    "question": "Explain TCP three-way handshake.",
+    "answer": "A strong answer should define TCP three-way handshake clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 214,
+    "category": "CN",
+    "question": "Explain latency.",
+    "answer": "A strong answer should define latency clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 48,
+    "category": "Project",
+    "question": "Explain your project.",
+    "answer": "I would explain my project in this order: the real problem, target users, main workflow, technologies, my individual contribution, database or model design, testing, deployment and the result. I would keep the first explanation concise and then go deeper based on the interviewer’s questions.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 49,
+    "category": "Project",
+    "question": "What problem does your project solve?",
+    "answer": "The project solves a specific user problem by replacing a manual or inefficient process with a structured digital workflow. I would explain the existing problem, the users affected and how each major feature addresses it.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 50,
+    "category": "Project",
+    "question": "Why did you choose this project?",
+    "answer": "I chose the project because it addresses a practical problem and gives me an opportunity to apply the technologies I was learning. I also wanted a project where I could demonstrate both implementation skills and problem-solving.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 51,
+    "category": "Project",
+    "question": "What was your role?",
+    "answer": "My contribution should be explained specifically: the modules I designed or implemented, the APIs or database work I handled, the testing I performed and the problems I solved. I would clearly separate my work from the team’s work.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 52,
+    "category": "Project",
+    "question": "Explain the architecture.",
+    "answer": "I would explain the architecture from the user interface to the backend/API layer, business logic, database and any external services. I would describe how data moves through the system and why the selected separation makes the application easier to test and maintain.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 53,
+    "category": "Project",
+    "question": "Why did you choose these technologies?",
+    "answer": "I selected technologies based on project requirements, learning goals and maintainability. I would explain what each technology contributes, why it fits the problem and what alternatives I considered.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 54,
+    "category": "Project",
+    "question": "What database did you use and why?",
+    "answer": "I would choose the database based on the data model, relationships, query needs, consistency requirements and expected scale. I would also explain the tables, keys, indexes and how the application validates data.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 55,
+    "category": "Project",
+    "question": "What was the hardest technical issue?",
+    "answer": "The hardest technical issue was identifying the real cause instead of only treating the visible error. I broke the problem into smaller parts, checked inputs and logs, tested one change at a time and verified the fix with repeatable tests.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 56,
+    "category": "Project",
+    "question": "How did you test it?",
+    "answer": "I would test normal cases, invalid input, boundary cases and failure conditions. I would test individual modules first, then API and database integration, and finally the complete user workflow.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 57,
+    "category": "Project",
+    "question": "How would you scale it?",
+    "answer": "To scale the project, I would first measure the bottleneck. Depending on the result, I could improve database indexes and queries, add caching, separate services where useful, use asynchronous processing and deploy multiple application instances behind a load balancer.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 58,
+    "category": "Project",
+    "question": "What security measures did you use?",
+    "answer": "I would validate input, protect authentication credentials, enforce authorization, avoid exposing sensitive errors, use parameterized database queries and keep dependencies updated. Error handling should give users safe messages while keeping useful details in controlled logs.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 59,
+    "category": "Project",
+    "question": "What would you improve?",
+    "answer": "I would improve the project based on user feedback and measured limitations. Possible improvements include better validation, accessibility, performance, testing coverage, analytics, security hardening and a cleaner deployment pipeline.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 60,
+    "category": "Project",
+    "question": "How would you deploy it?",
+    "answer": "I would prepare environment variables, production configuration, database setup, build/start commands, logging and health checks, then deploy to a suitable platform. After deployment I would test the main user flows and monitor errors.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 79,
+    "category": "Project",
+    "question": "Explain your project in two minutes.",
+    "answer": "I would explain my project in this order: the real problem, target users, main workflow, technologies, my individual contribution, database or model design, testing, deployment and the result. I would keep the first explanation concise and then go deeper based on the interviewer’s questions.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 80,
+    "category": "Project",
+    "question": "What was your contribution?",
+    "answer": "My contribution should be explained specifically: the modules I designed or implemented, the APIs or database work I handled, the testing I performed and the problems I solved. I would clearly separate my work from the team’s work.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 81,
+    "category": "Project",
+    "question": "What was the hardest technical problem?",
+    "answer": "The hardest technical issue was identifying the real cause instead of only treating the visible error. I broke the problem into smaller parts, checked inputs and logs, tested one change at a time and verified the fix with repeatable tests.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 82,
+    "category": "Project",
+    "question": "How did you test your project?",
+    "answer": "I would test normal cases, invalid input, boundary cases and failure conditions. I would test individual modules first, then API and database integration, and finally the complete user workflow.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 83,
+    "category": "Project",
+    "question": "Why did you choose your technology stack?",
+    "answer": "I selected technologies based on project requirements, learning goals and maintainability. I would explain what each technology contributes, why it fits the problem and what alternatives I considered.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 84,
+    "category": "Project",
+    "question": "How would you scale the project?",
+    "answer": "To scale the project, I would first measure the bottleneck. Depending on the result, I could improve database indexes and queries, add caching, separate services where useful, use asynchronous processing and deploy multiple application instances behind a load balancer.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 85,
+    "category": "Project",
+    "question": "What would you improve in the next version?",
+    "answer": "I would improve the project based on user feedback and measured limitations. Possible improvements include better validation, accessibility, performance, testing coverage, analytics, security hardening and a cleaner deployment pipeline.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 66,
+    "category": "Technical",
+    "question": "Explain OOP concepts.",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 67,
+    "category": "Technical",
+    "question": "What is the difference between process and thread?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 68,
+    "category": "Technical",
+    "question": "What is normalization in DBMS?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 69,
+    "category": "Technical",
+    "question": "What is a primary key and foreign key?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 70,
+    "category": "Technical",
+    "question": "Explain INNER JOIN and LEFT JOIN.",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 71,
+    "category": "Technical",
+    "question": "What is an index in a database?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 72,
+    "category": "Technical",
+    "question": "What is polymorphism?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 73,
+    "category": "Technical",
+    "question": "What is REST API?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 74,
+    "category": "Technical",
+    "question": "What is the difference between stack and queue?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 75,
+    "category": "Technical",
+    "question": "What is a deadlock?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 76,
+    "category": "Technical",
+    "question": "Explain TCP vs UDP.",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 77,
+    "category": "Technical",
+    "question": "What is HTTP vs HTTPS?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 78,
+    "category": "Technical",
+    "question": "What is inheritance?",
+    "answer": "I would explain the concept with a short definition, compare the important parts, and give a practical example. For an interview, I would also connect the concept to a project or implementation when relevant.",
+    "explanation": "A strong response should be technically correct, concise and supported by a practical example when possible. Customize this sample to your own experience instead of memorizing it word for word."
+  },
+  {
+    "id": 215,
+    "category": "Technical",
+    "question": "Explain abstraction.",
+    "answer": "A strong answer should define abstraction clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 216,
+    "category": "Technical",
+    "question": "Explain API.",
+    "answer": "A strong answer should define API clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 217,
+    "category": "Technical",
+    "question": "Explain REST.",
+    "answer": "A strong answer should define REST clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 218,
+    "category": "Technical",
+    "question": "Explain JSON.",
+    "answer": "A strong answer should define JSON clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 219,
+    "category": "Technical",
+    "question": "Explain authentication vs authorization.",
+    "answer": "A strong answer should define authentication vs authorization clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 220,
+    "category": "Technical",
+    "question": "Explain caching.",
+    "answer": "A strong answer should define caching clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 221,
+    "category": "Technical",
+    "question": "Explain load balancing.",
+    "answer": "A strong answer should define load balancing clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 222,
+    "category": "Coding",
+    "question": "Explain reverse a string.",
+    "answer": "A strong answer should define reverse a string clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 223,
+    "category": "Coding",
+    "question": "Explain palindrome check.",
+    "answer": "A strong answer should define palindrome check clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 224,
+    "category": "Coding",
+    "question": "Explain find array duplicates.",
+    "answer": "A strong answer should define find array duplicates clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 225,
+    "category": "Coding",
+    "question": "Explain character frequencies.",
+    "answer": "A strong answer should define character frequencies clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 226,
+    "category": "Coding",
+    "question": "Explain reverse a linked list.",
+    "answer": "A strong answer should define reverse a linked list clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 227,
+    "category": "Coding",
+    "question": "Explain detect linked-list cycle.",
+    "answer": "A strong answer should define detect linked-list cycle clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 228,
+    "category": "Coding",
+    "question": "Explain Two Sum.",
+    "answer": "A strong answer should define Two Sum clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 229,
+    "category": "Coding",
+    "question": "Explain implement a stack.",
+    "answer": "A strong answer should define implement a stack clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 230,
+    "category": "Coding",
+    "question": "Explain implement a queue.",
+    "answer": "A strong answer should define implement a queue clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 231,
+    "category": "Coding",
+    "question": "Explain maximum subarray sum.",
+    "answer": "A strong answer should define maximum subarray sum clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 232,
+    "category": "Coding",
+    "question": "Explain merge sorted arrays.",
+    "answer": "A strong answer should define merge sorted arrays clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 233,
+    "category": "Coding",
+    "question": "Explain binary search.",
+    "answer": "A strong answer should define binary search clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 234,
+    "category": "Coding",
+    "question": "Explain missing number.",
+    "answer": "A strong answer should define missing number clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 235,
+    "category": "Coding",
+    "question": "Explain remove sorted-array duplicates.",
+    "answer": "A strong answer should define remove sorted-array duplicates clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 236,
+    "category": "Coding",
+    "question": "Explain binary-tree traversal.",
+    "answer": "A strong answer should define binary-tree traversal clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 237,
+    "category": "Coding",
+    "question": "Explain tree height.",
+    "answer": "A strong answer should define tree height clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 238,
+    "category": "Coding",
+    "question": "Explain efficient sorting.",
+    "answer": "A strong answer should define efficient sorting clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 239,
+    "category": "Coding",
+    "question": "Explain complexity analysis.",
+    "answer": "A strong answer should define complexity analysis clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 240,
+    "category": "Coding",
+    "question": "Explain testing edge cases.",
+    "answer": "A strong answer should define testing edge cases clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  },
+  {
+    "id": 241,
+    "category": "Coding",
+    "question": "Explain explaining code in an interview.",
+    "answer": "A strong answer should define explaining code in an interview clearly, explain the reasoning, include a practical example where useful, and mention relevant trade-offs or edge cases.",
+    "explanation": "Use this as an interview practice answer and adapt it to your own experience. Interviewers value clarity, correctness and practical reasoning."
+  }
+]
