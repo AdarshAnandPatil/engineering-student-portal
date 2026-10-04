@@ -1,0 +1,191 @@
+[
+  {
+    "title": "VTU Online \u2014 Programming & Engineering Courses",
+    "provider": "Official VTU Online",
+    "url": "https://online.vtu.ac.in/v1/courses",
+    "free": true,
+    "certificate": "Course dependent",
+    "area": "VTU-aligned engineering learning",
+    "description": "Official VTU Online course catalogue. Check each course for access and certificate details."
+  },
+  {
+    "title": "VTU Online \u2014 Technology & Skill Courses",
+    "provider": "Official VTU Online",
+    "url": "https://online.vtu.ac.in/v1/courses",
+    "free": true,
+    "certificate": "Course dependent",
+    "area": "Engineering and professional skills",
+    "description": "Browse the official VTU Online catalogue for available technology and skill courses."
+  },
+  {
+    "title": "Responsive Web Design",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+    "free": true,
+    "certificate": "Yes \u2014 certification available on completion",
+    "area": "Frontend / Web Development",
+    "description": "HTML, CSS, responsive layouts, accessibility and practical web projects."
+  },
+  {
+    "title": "JavaScript Algorithms and Data Structures",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/",
+    "free": true,
+    "certificate": "Yes \u2014 certification available on completion",
+    "area": "JavaScript / DSA",
+    "description": "JavaScript fundamentals, algorithms, data structures and problem solving."
+  },
+  {
+    "title": "Scientific Computing with Python",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
+    "free": true,
+    "certificate": "Yes \u2014 certification available on completion",
+    "area": "Python",
+    "description": "Python programming through practical scientific-computing projects."
+  },
+  {
+    "title": "Python Learning Paths",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/training/browse/?terms=python",
+    "free": true,
+    "certificate": "Achievements/badges vary by module",
+    "area": "Python / Development",
+    "description": "Official Microsoft Learn modules and learning paths for Python and development."
+  },
+  {
+    "title": "Azure Fundamentals",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/training/paths/azure-fundamentals-describe-cloud-concepts/",
+    "free": true,
+    "certificate": "Learning achievements; certification exam is separate",
+    "area": "Cloud",
+    "description": "Cloud concepts and Azure fundamentals through official Microsoft learning content."
+  },
+  {
+    "title": "GitHub & DevOps Learning",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/training/browse/?terms=GitHub",
+    "free": true,
+    "certificate": "Achievements/badges vary by module",
+    "area": "Git / DevOps",
+    "description": "Official learning modules covering GitHub, collaboration and DevOps concepts."
+  },
+  {
+    "title": "AWS Cloud Foundations",
+    "provider": "AWS Skill Builder",
+    "url": "https://skillbuilder.aws/",
+    "free": true,
+    "certificate": "Course dependent; badges/credentials vary",
+    "area": "Cloud / AWS",
+    "description": "AWS Skill Builder catalogue with foundational cloud learning and practice."
+  },
+  {
+    "title": "AWS Generative AI Learning",
+    "provider": "AWS Skill Builder",
+    "url": "https://skillbuilder.aws/",
+    "free": true,
+    "certificate": "Course dependent",
+    "area": "AI / Cloud",
+    "description": "Explore AWS learning content for generative AI and modern cloud services."
+  },
+  {
+    "title": "AWS Developer Learning",
+    "provider": "AWS Skill Builder",
+    "url": "https://skillbuilder.aws/",
+    "free": true,
+    "certificate": "Course dependent",
+    "area": "Cloud / Development",
+    "description": "Developer-focused AWS training and hands-on learning options."
+  },
+  {
+    "title": "Artificial Intelligence Fundamentals",
+    "provider": "IBM SkillsBuild",
+    "url": "https://skillsbuild.org/",
+    "free": true,
+    "certificate": "Digital credentials vary by learning path",
+    "area": "AI / Data",
+    "description": "IBM SkillsBuild learning resources for AI fundamentals and digital skills."
+  },
+  {
+    "title": "Data Fundamentals",
+    "provider": "IBM SkillsBuild",
+    "url": "https://skillsbuild.org/",
+    "free": true,
+    "certificate": "Digital credentials vary by learning path",
+    "area": "Data / Analytics",
+    "description": "Build data literacy and analytics foundations with IBM SkillsBuild."
+  },
+  {
+    "title": "Cybersecurity Fundamentals",
+    "provider": "IBM SkillsBuild",
+    "url": "https://skillsbuild.org/",
+    "free": true,
+    "certificate": "Digital credentials vary by learning path",
+    "area": "Cybersecurity",
+    "description": "Introductory cybersecurity learning and digital skill development."
+  },
+  {
+    "title": "Python Developer Learning",
+    "provider": "SoloLearn",
+    "url": "https://www.sololearn.com/en/learn/courses/python-introduction",
+    "free": true,
+    "certificate": "Course completion/certificate features vary",
+    "area": "Python",
+    "description": "Interactive Python lessons and practice for beginners and developing programmers."
+  },
+  {
+    "title": "SQL Learning",
+    "provider": "SoloLearn",
+    "url": "https://www.sololearn.com/en/learn/courses/sql-introduction",
+    "free": true,
+    "certificate": "Course completion/certificate features vary",
+    "area": "SQL / Database",
+    "description": "Interactive SQL practice covering database and query fundamentals."
+  },
+  {
+    "title": "Java Learning",
+    "provider": "SoloLearn",
+    "url": "https://www.sololearn.com/en/learn/courses/java-introduction",
+    "free": true,
+    "certificate": "Course completion/certificate features vary",
+    "area": "Java",
+    "description": "Interactive Java programming lessons and exercises."
+  },
+  {
+    "title": "Java Free Course Collection",
+    "provider": "Simplilearn",
+    "url": "https://www.simplilearn.com/free-java-course-skillup",
+    "free": true,
+    "certificate": "Course dependent",
+    "area": "Java",
+    "description": "Simplilearn SkillUp learning resources for Java fundamentals."
+  },
+  {
+    "title": "Python Free Course Collection",
+    "provider": "Simplilearn",
+    "url": "https://www.simplilearn.com/free-python-course-skillup",
+    "free": true,
+    "certificate": "Course dependent",
+    "area": "Python",
+    "description": "Python learning resources for programming and career preparation."
+  },
+  {
+    "title": "SQL Free Course Collection",
+    "provider": "Simplilearn",
+    "url": "https://www.simplilearn.com/free-sql-course-skillup",
+    "free": true,
+    "certificate": "Course dependent",
+    "area": "SQL / Database",
+    "description": "SQL fundamentals and database learning resources."
+  },
+  {
+    "title": "Cloud Computing Free Course Collection",
+    "provider": "Simplilearn",
+    "url": "https://www.simplilearn.com/free-cloud-computing-course-skillup",
+    "free": true,
+    "certificate": "Course dependent",
+    "area": "Cloud",
+    "description": "Introductory cloud computing resources for students and beginners."
+  }
+]
